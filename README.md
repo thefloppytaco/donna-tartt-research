@@ -140,13 +140,11 @@ owners. See **[`LICENSE`](LICENSE)** — the original research and compilation i
 third-party source captures stay under their owners' copyright. To request removal of anything,
 open an issue.
 
-## Known caveats
+## Accuracy & limitations
 
-1. **TSH advance/print-run** — the $450,000 Knopf advance is from Fein (NYT, 1992-11-16); the 75,000
-   first-printing figure is from *Newsweek* (1992-09-07). See §2.1.
-2. **The Goldfinch pre/post-Pulitzer jacket** — first/first has no Pulitzer reference; the exact
-   later-state mechanism varies by source. See §4.2.
-3. **Goldfinch UK Lettered A–Z (2013)** — only 2 of 26 letters (J, Z) have surfaced publicly. §4.5A.
-4. Items flagged single-sourced or unsettled are listed in [`reports/Verification_Report.md`](reports/Verification_Report.md).
+Claims are cross-checked against primary sources where possible. Documented corrections, and any
+items that remain single-sourced or unsettled, are recorded in
+[`reports/Verification_Report.md`](reports/Verification_Report.md). Per-edition caveats and points of
+issue are noted in the relevant sections of the reference.
 
 <div align="center"><sub>Compiled across multiple research passes · consolidated 2026</sub></div>
