@@ -1,0 +1,405 @@
+[
+    {
+        "sid": "S001",
+        "label": "fedpo TSH points-of-issue",
+        "url": "http://www.fedpo.com/BookDetail.php/The-Secret-History",
+        "file": "S001_fedpo_TSH_points-of-issue.html",
+        "sha": "c9c74a18f9a6c44c",
+        "bytes": 20916,
+        "status": 200
+    },
+    {
+        "sid": "S002",
+        "label": "Rare Book Cellar TSH 1st",
+        "url": "https://www.rarebookcellar.com/pages/books/172261/donna-tartt/the-secret-history",
+        "file": "S002_Rare_Book_Cellar_TSH_1st.html",
+        "sha": "0dd4e356d79ea4cb",
+        "bytes": 94229,
+        "status": 200
+    },
+    {
+        "sid": "S003",
+        "label": "Biblio Collecting TSH",
+        "url": "https://www.biblio.com/the-secret-history-by-tartt-donna/work/36905",
+        "file": "S003_Biblio_Collecting_TSH.html",
+        "sha": "57ef129b58add053",
+        "bytes": 111755,
+        "status": 200
+    },
+    {
+        "sid": "S005",
+        "label": "Peter Harrington TSH 177243",
+        "url": "https://www.peterharrington.co.uk/the-secret-history-177243.html",
+        "file": "S005_Peter_Harrington_TSH_177243.html",
+        "sha": "ecb57e8944a5d83b",
+        "bytes": 202539,
+        "status": 200
+    },
+    {
+        "sid": "S006",
+        "label": "Bauman Rare Books TSH 104963",
+        "url": "https://www.baumanrarebooks.com/rare-books/tartt-donna/secret-history/104963.aspx",
+        "file": "S006_Bauman_Rare_Books_TSH_104963.html",
+        "sha": "8047d28b1b5c26ce",
+        "bytes": 107693,
+        "status": 200
+    },
+    {
+        "sid": "S007",
+        "label": "Second Story Books TSH 1393608",
+        "url": "https://www.secondstorybooks.com/pages/books/1393608/donna-tartt/the-secret-history-signed",
+        "file": "S007_Second_Story_Books_TSH_1393608.html",
+        "sha": "4fbc5c55982568b4",
+        "bytes": 113315,
+        "status": 200
+    },
+    {
+        "sid": "S012",
+        "label": "Jonkers UK Viking proof",
+        "url": "https://www.jonkers.co.uk/rare-book/13802/the-secret-history/donna-tartt",
+        "file": "S012_Jonkers_UK_Viking_proof.html",
+        "sha": "54119ca35d1a73c1",
+        "bytes": 40953,
+        "status": 200
+    },
+    {
+        "sid": "S013",
+        "label": "John Atkinson UK Viking 1st",
+        "url": "https://johnatkinsonbooks.co.uk/book/donna-tartt-the-secret-history-first-edition-1992/",
+        "file": "S013_John_Atkinson_UK_Viking_1st.html",
+        "sha": "56e4e9fa5bd90cd2",
+        "bytes": 216688,
+        "status": 200
+    },
+    {
+        "sid": "S014",
+        "label": "fedpo Het puttertje",
+        "url": "http://www.fedpo.com/BookDetail.php/Het-Puttertje",
+        "file": "S014_fedpo_Het_puttertje.html",
+        "sha": "e927462119c3625e",
+        "bytes": 28537,
+        "status": 200
+    },
+    {
+        "sid": "S015",
+        "label": "De Bezige Bij Het puttertje",
+        "url": "https://www.debezigebij.nl/boek/het-puttertje/",
+        "file": "S015_De_Bezige_Bij_Het_puttertje.html",
+        "sha": "f243801b88de2f89",
+        "bytes": 213453,
+        "status": 200
+    },
+    {
+        "sid": "S016",
+        "label": "David Press Goldfinch UK Deluxe",
+        "url": "https://www.dpspbs.com/pages/books/4430/donna-tartt/the-goldfinch",
+        "file": "S016_David_Press_Goldfinch_UK_Deluxe.html",
+        "sha": "7691b913d618aef9",
+        "bytes": 89333,
+        "status": 200
+    },
+    {
+        "sid": "S017",
+        "label": "Sothebys Goldfinch UK Deluxe",
+        "url": "https://www.sothebys.com/en/buy/holiday/gifts-for-him/_the-goldfinch-9385",
+        "file": "S017_Sothebys_Goldfinch_UK_Deluxe.html",
+        "sha": "c147ea059b8421a7",
+        "bytes": 55595,
+        "status": 200
+    },
+    {
+        "sid": "S019",
+        "label": "Evening Star Books TLF first",
+        "url": "https://www.eveningstarbooks.net/pages/books/000013362/donna-tartt/the-little-friend",
+        "file": "S019_Evening_Star_Books_TLF_first.html",
+        "sha": "72f6a0968cabe3d2",
+        "bytes": 92501,
+        "status": 200
+    },
+    {
+        "sid": "S020",
+        "label": "Lorne Bair TLF proof",
+        "url": "https://www.lornebair.com/pages/books/82394/donna-tartt/the-little-friend-uncorrected-proof-copy",
+        "file": "S020_Lorne_Bair_TLF_proof.html",
+        "sha": "6c8017dc9fcf9061",
+        "bytes": 86605,
+        "status": 200
+    },
+    {
+        "sid": "S021",
+        "label": "Vandello Lenox Tam-O-Shanter",
+        "url": "https://www.vandellobooks.com/product/4769/Tam-O-Shanter",
+        "file": "S021_Vandello_Lenox_Tam-O-Shanter.html",
+        "sha": "c8a9ece63a927e5b",
+        "bytes": 1675,
+        "status": 200
+    },
+    {
+        "sid": "S022",
+        "label": "Open Library TSH",
+        "url": "https://openlibrary.org/books/OL1744188M/The_secret_history",
+        "file": "S022_Open_Library_TSH.html",
+        "sha": "8721a08e38048dd9",
+        "bytes": 101807,
+        "status": 200
+    },
+    {
+        "sid": "S024",
+        "label": "fedpo Goldfinch",
+        "url": "http://www.fedpo.com/BookDetail.php/The-Goldfinch",
+        "file": "S024_fedpo_Goldfinch.html",
+        "sha": "c6fc96915f2582e6",
+        "bytes": 37467,
+        "status": 200
+    },
+    {
+        "sid": "S025",
+        "label": "Harpers Sleepytown 1992",
+        "url": "https://harpers.org/archive/1992/07/sleepytown/",
+        "file": "S025_Harpers_Sleepytown_1992.html",
+        "sha": "54c0e771971816e0",
+        "bytes": 100788,
+        "status": 200
+    },
+    {
+        "sid": "S026",
+        "label": "Harpers A Christmas Pageant 1993",
+        "url": "https://harpers.org/archive/1993/12/a-christmas-pageant/",
+        "file": "S026_Harpers_A_Christmas_Pageant_1993.html",
+        "sha": "43f82d00850227fe",
+        "bytes": 100013,
+        "status": 200
+    },
+    {
+        "sid": "S027",
+        "label": "Harpers Team Spirit 1994",
+        "url": "https://harpers.org/archive/1994/04/team-spirit/",
+        "file": "S027_Harpers_Team_Spirit_1994.html",
+        "sha": "b74b63b0a92fbc90",
+        "bytes": 101790,
+        "status": 200
+    },
+    {
+        "sid": "S028",
+        "label": "Oxford American Basketball Season 1992",
+        "url": "https://oxfordamerican.org/magazine/issue-2-fall-1992/basketball-season",
+        "file": "S028_Oxford_American_Basketball_Season_1992.html",
+        "sha": "3c9180733ccb086e",
+        "bytes": 38868,
+        "status": 200
+    },
+    {
+        "sid": "S029",
+        "label": "PRH Audio TLF",
+        "url": "https://www.penguinrandomhouseaudio.com/book/176616/the-little-friend/",
+        "file": "S029_PRH_Audio_TLF.html",
+        "sha": "2da78f84630ac54b",
+        "bytes": 357749,
+        "status": 200
+    },
+    {
+        "sid": "S030",
+        "label": "NDL Japan Fusosha TSH 1994",
+        "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002379642",
+        "file": "S030_NDL_Japan_Fusosha_TSH_1994.html",
+        "sha": "a3f9cd47348c31b5",
+        "bytes": 382656,
+        "status": 200
+    },
+    {
+        "sid": "S031",
+        "label": "Shinchosha Donna Tartt author",
+        "url": "https://www.shinchosha.co.jp/writer/5985/",
+        "file": "S031_Shinchosha_Donna_Tartt_author.html",
+        "sha": "e438b0de549bb1f9",
+        "bytes": 38972,
+        "status": 200
+    },
+    {
+        "sid": "S032",
+        "label": "Kawade Goldfinch JP vol 1",
+        "url": "https://www.kawade.co.jp/np/isbn/9784309207070/",
+        "file": "S032_Kawade_Goldfinch_JP_vol_1.html",
+        "sha": "e1f70d59ca543a55",
+        "bytes": 33584,
+        "status": 200
+    },
+    {
+        "sid": "S033",
+        "label": "Rizzoli Bookstore Il cardellino",
+        "url": "https://www.rizzolibookstore.com/product/il-cardellino",
+        "file": "S033_Rizzoli_Bookstore_Il_cardellino.html",
+        "sha": "b134d5708f213cd2",
+        "bytes": 126300,
+        "status": 200
+    },
+    {
+        "sid": "S034",
+        "label": "Edwards Rare Books TG US 1st",
+        "url": "https://edwardsrarebooks.com/products/the-goldfinch-donna-tartt-first-68292",
+        "file": "S034_Edwards_Rare_Books_TG_US_1st.html",
+        "sha": "8541fe4675f334ee",
+        "bytes": 150203,
+        "status": 200
+    },
+    {
+        "sid": "S035",
+        "label": "J Michaels Books TG signed",
+        "url": "https://www.jmichaelsbooks.com/pages/books/901148/donna-tartt/the-goldfinch-signed",
+        "file": "S035_J_Michaels_Books_TG_signed.html",
+        "sha": "3f289b0309ad3e22",
+        "bytes": 99129,
+        "status": 200
+    },
+    {
+        "sid": "S036",
+        "label": "Raptis Rare Books TG signed",
+        "url": "https://www.raptisrarebooks.com/product/the-goldfinch-donna-tartt-first-edition-signed/",
+        "file": "S036_Raptis_Rare_Books_TG_signed.html",
+        "sha": "108f04b2b857cf21",
+        "bytes": 142021,
+        "status": 200
+    },
+    {
+        "sid": "S037",
+        "label": "Sue Lloyd-Davies TLF Bloom Deluxe",
+        "url": "https://biblio.co.uk/book/little-friend-signed-limited-edition-slipcase/d/952225009",
+        "file": "S037_Sue_Lloyd-Davies_TLF_Bloom_Deluxe.html",
+        "sha": "e48e7fdf3fb12735",
+        "bytes": 173902,
+        "status": 200
+    },
+    {
+        "sid": "S038",
+        "label": "Politeianet Greek TLF Λιβάνης",
+        "url": "https://www.politeianet.gr/books/9789601406824-tartt-donna-libanis-o-mikros-filos-182673",
+        "file": "S038_Politeianet_Greek_TLF_Λιβάνης.html",
+        "sha": "0ed1bb80022f2362",
+        "bytes": 20497,
+        "status": 200
+    },
+    {
+        "sid": "S039",
+        "label": "Public.gr Greek TG Καρδερίνα",
+        "url": "https://www.public-cyprus.com.cy/product/books/greek-books/literature/translated-literature/i-karderina/prod6230099pp/",
+        "file": null,
+        "error": "The read operation timed out"
+    },
+    {
+        "sid": "S040",
+        "label": "Donna Tartt Shrine — VF Smart Tartt 1992",
+        "url": "https://www.languageisavirus.com/donna-tartt/interviews-smartt-tartt-vanity-fair.php",
+        "file": "S040_DTartt_Shrine_VF_Smart_Tartt.html",
+        "sha": "e8a3c97a0b733b9d",
+        "bytes": 168916,
+        "status": 200
+    },
+    {
+        "sid": "S080",
+        "label": "Newsweek Sept 7 1992 Anatomy of a Hype",
+        "url": "https://www.newsweek.com/anatomy-hype-197498",
+        "file": "S080_Newsweek_Sept1992_Anatomy_of_Hype.html",
+        "sha": "3871eea7f2966324",
+        "bytes": 2159,
+        "status": 200
+    },
+    {
+        "sid": "S081",
+        "label": "The Baffler March 1993 Packaging Literary Persona",
+        "url": "https://thebaffler.com/",
+        "file": "S081_Baffler_Packaging_Literary_Persona.html",
+        "sha": "c15add23173252ae",
+        "bytes": 615,
+        "status": 200
+    },
+    {
+        "sid": "S082",
+        "label": "Southern Lit Review Tartt Profile",
+        "url": "https://southernlitreview.com/",
+        "file": "S082_SouthernLitReview_Tartt_Profile.html",
+        "sha": "a05a17f5d85ecaef",
+        "bytes": 559,
+        "status": 200
+    },
+    {
+        "sid": "S083",
+        "label": "BOMB Magazine #56 Summer 1996 Erin Parish essay",
+        "url": "https://bombmagazine.org/articles/2021/05/25/erin-parish/",
+        "file": "S083_BOMB56_ErinParish_byDonnaTartt.html",
+        "sha": "04c299b9cb9f22b6",
+        "bytes": 2007,
+        "status": 200
+    },
+    {
+        "sid": "S084",
+        "label": "artist-info Jeffrey Coploff gallery",
+        "url": "https://www.artist-info.com/artist/Jeffrey-Coploff",
+        "file": "S084_artist-info_JeffreyCoploff.html",
+        "sha": "afdc0bf86b65399c",
+        "bytes": 625,
+        "status": 200
+    },
+    {
+        "sid": "S085",
+        "label": "Esquire Sept 1992 Tartt's Sweet Deal (Esquire Classic archive)",
+        "url": "https://classic.esquire.com/article/1992/9/1/tartts-sweet-deal",
+        "file": "S085_Esquire_Sept1992_TarttsSweatDeal.html",
+        "sha": "dbc63aea03c6b4f1",
+        "bytes": 709,
+        "status": 200
+    },
+    {
+        "sid": "S086",
+        "label": "languageisavirus.com Esquire 1992 reprint",
+        "url": "https://www.languageisavirus.com/donna-tartt/interviews-tartts-sweet-deal-esquire.php",
+        "file": "S086_languageisavirus_Esquire_reprint.html",
+        "sha": "f61053a7e252af37",
+        "bytes": 584,
+        "status": 200
+    },
+    {
+        "sid": "S087",
+        "label": "Tom W. Ayling TSH Trial Binding SKU 1939",
+        "url": "https://www.tomwayling.co.uk/product-page/the-secret-history-trial-binding",
+        "file": "S087_TomWayling_TSH_TrialBinding.html",
+        "sha": "88e6c7fa880f9b98",
+        "bytes": 1260,
+        "status": 200
+    },
+    {
+        "sid": "S088",
+        "label": "Captain Ahab's Rare Books TSH inscribed to Otto Penzler 9/10/92",
+        "url": "https://www.captainahabsrarebooks.com/pages/books/7445/donna-tartt/the-secret-history-inscribed-to-otto-penzler",
+        "file": "S088_CaptainAhabs_TSH_Penzler.html",
+        "sha": "32aff9a6c3598699",
+        "bytes": 2222,
+        "status": 200
+    },
+    {
+        "sid": "S089",
+        "label": "nocloo Rare Books TG first state signed",
+        "url": "https://www.nocloo.com/the-goldfinch-donna-tartt-2013-1st-edition-signed/",
+        "file": "S089_nocloo_TG_FirstState_Signed.html",
+        "sha": "7c34c712b100d5e6",
+        "bytes": 199218,
+        "status": 200
+    },
+    {
+        "sid": "S090",
+        "label": "Fusosha Mystery Blog TLF Japanese first 2007-05-30",
+        "url": "http://www.fusosha.co.jp/mysteryblog/2007/05/post-24.html",
+        "file": "S090_Fusosha_Mystery_Blog_TLF_2007.html",
+        "sha": "57cb7f48708c2d31",
+        "bytes": 46936,
+        "status": 200
+    },
+    {
+        "sid": "S091",
+        "label": "Lacey Books TSH shorter-glossy-black-border variant (AbeBooks)",
+        "url": "https://www.abebooks.co.uk/first-edition/Secret-History-variant-first-edition-Tartt/31825158235/bd",
+        "file": "S091_LaceyBooks_TSH_GlossyVariant_AbeBooks.html",
+        "sha": "58782e26dc3b0fcb",
+        "bytes": 107244,
+        "status": 200
+    }
+]

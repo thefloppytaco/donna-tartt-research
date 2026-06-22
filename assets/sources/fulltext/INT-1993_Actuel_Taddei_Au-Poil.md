@@ -1,0 +1,103 @@
+<!-- hosted full text, copied verbatim from assets/sources/press_primary/ACTUEL-N31-32-1993-07_p170-171_Taddei-TARTT-AU-POIL_transcript.txt (Actuel N°31-32, July-Aug 1993, 'Tartt, au poil!' by Frederic Taddei, pp.170-171; About_Donna_Tartt_Items.md confirmed finding). French. -->
+
+ACTUEL N°31/32 — Juillet-Août 1993 (double "été" issue) — p. 170–171
+Section: PORTRAITS
+Headline: TARTT, AU POIL !
+Standfirst: « Lire un aussi bon roman américain rend méchant. Polémique »
+Byline: PAR FRÉDÉRIC TADDEÏ
+Photo credit: John Foley / Olympe (B&W author portrait, p. 170)
+Page footer: ACTUEL N°31/32 — 170 — JUILLET-AOÛT 1993
+
+------------------------------------------------------------------
+SOURCE NOTE
+------------------------------------------------------------------
+Transcribed from two seller photographs filed alongside this transcript:
+  - ACTUEL-N31-32-1993-07_p170_Taddei-TARTT-AU-POIL_scan1of2.jpg  (full p.170 column — complete, verbatim below)
+  - ACTUEL-N31-32-1993-07_p170-171_Taddei-TARTT-AU-POIL_scan2of2.jpg  (p.171 continuation — line-ends curl into the binding gutter)
+
+The p.170 column transcribes cleanly. On the p.171 continuation page the right edge of
+each line is lost in the book's gutter/curl; those losses are marked [...] and a few
+obvious word-completions are given in [brackets]. Do NOT treat the p.171 portion as a
+clean verbatim record — it is a best-effort reading pending a flat scan of p.171.
+
+This article DIRECTLY CONTRADICTS the prior "negative finding" for ACTUEL N°31-32, which
+had been resolved from a TOC-only photo that omitted the Portraits section. Donna Tartt IS
+in this issue: a full Portraits feature on p.170–171.
+
+------------------------------------------------------------------
+p. 170 — full column (verbatim)
+------------------------------------------------------------------
+Vous voyez cette fille ? Nos jeunes romanciers devraient lui élever une statue et venir
+s'y frotter, comme les femmes stériles sur le gisant de Victor Noir au Père-Lachaise. À
+vingt-neuf ans, Donna Tartt est la nouvelle fusée des lettres américaines. Une fusée
+d'1,55 m, la taille de Lolita dans Nabokov, mais capable de mettre en orbite un premier
+roman colossal, déjà traduit en Chine, au Japon, dans onze pays au total, et dont
+l'arrivée chez nous, au milieu des pâtés de sable de la littérature française, fait aussi
+mal que l'opération « Tempête du désert ».
+
+Donna Tartt aurait pu se faire éditer dès 1986, dans la foulée de l'explosion littéraire
+du Bennington College. Après la publication de Moins que zéro, de son copain Bret Easton
+Ellis, les éditeurs s'arrachaient les élèves de Joe McGinnis et Mary Robinson. Mais c'est
+seulement en 1991, quand ses huit cent soixante pages lui ont enfin donné satisfaction,
+qu'elle est allée voir Amanda « Binky » Durban, la reine des agents littéraires. Son
+manuscrit pesait cinq kilos, il a fallu deux boîtes pour le porter. Dix maisons d'édition
+se sont aussitôt mises sur les rangs. Knopf, l'éditeur d'Updike, a emporté le morceau pour
+450 000 dollars. Plus de deux millions de francs pour un premier roman ! Quelques mois plus
+tard, les droits de l'édition de poche étaient revendus 500 000 dollars.
+
+Chez Knopf, Donna a affaire à Gary Fisketjon, le type qui a fait bosser Carver, Richard
+Ford, Jay McInerney. Résultat : encore un an de travail sur le manuscrit. Avec parfois des
+discussions d'une demi-heure pour changer une virgule. Au finish, ça donne Secret History,
+le best-seller de l'été 1992 aux USA, devenu chez nous Le Maître des illusions (Plon).
+L'histoire d'un petit groupe d'étudiants en grec ancien, totalement dominés par leur
+professeur, qui se rendent coupables d'un assassinat. Un roman psychologique de sept cents
+pages sur l'élitisme, l'éthique de la responsabilité et la culture classique, où se fait
+sentir l'influence de Nabokov, d'Edgar Poe et de Crime et Châtiment.
+
+Le cas Donna Tartt est exemplaire. Non seulement cette petite Sudiste vient de pondre l'un
+des meilleurs livres de ces dernières années, mais elle est la preuve éclatante de la
+vitalité de la nouvelle vague américaine par rapport au petit monde sourd et muet des
+lettres parisiennes. Qui, parmi les jeunes Français, travaille encore son manuscrit pendant
+plusieurs années ? Nous sommes les champions des romans vite faits mal faits, minces comme
+des plaquettes de pub et imprimés en gros caractères. Cent cinquante pages de narcissisme
+rédigées à la hâte n'ont jamais fait un [suite p. 171] →
+
+------------------------------------------------------------------
+p. 171 — continuation (best-effort; [...] = line-end lost in gutter)
+------------------------------------------------------------------
+[...] écrivain. Pourquoi les lecte[urs feraient-ils] l'effort de lire des livres qu[e
+personne n'a] pris la peine d'écrire ?
+
+Mais à quoi bon faire des romans consé[quents] ? En France, au-dessus de deux cents pages,
+vous êtes considéré comme un raseur. Il faut reconnaître, à leur décharge, que les jeunes
+écrivains ne sont pas [des] feignants de la profession. Les éditeurs [...] tant ? La plupart
+des éditeu[rs ...] tout dans les maisons d'édit[ion ...] sont eux-mêmes écrivains. Il[s ...]
+vent leurs propres romans, [...] des articles pour [les journaux ...] magouillent pour
+décroche[r ...] temps de fournir, en plus, [un boulot] d'éditeur, un boulot si ingra[t ...]
+que quelques petites maisons p[euvent prendre en] charge. Résultat : « Ce serait [bien que
+vous] raccourcisses un peu ça » : ce[st le seul] conseil qu'un jeune auteur [peut attendre]
+de la bouche de son direct[eur littéraire,] avant de se faire balancer [...pour de]
+mauvaises ventes. Les dernie[rs interlocuteurs] valables restent les co[... du] moins, ils
+s'intéressent aux te[...].
+
+Hélas, la supériorité des Am[éricains ne se] réduit pas à la cuisine, ell[e est fla-]grante
+à l'arrivée des plats su[r table]. [Qui,] chez nous, écrit encore des [romans suscep-]tibles
+d'intéresser un Japona[is ou un Norvé-]gien, à part Alexandre Jardi[n ...] matique pour
+yuppies décér[ébrés ?...] ment voulez-vous exporter [des nombrils] nombrilistes, arc-coupés
+[de la planète ...] que les romans français ? Q[ui ...] s'intéresse à nos pauvres pe[tits
+romans à] cul faussement cyniques, au[x ...] considérations sur des écri[vains qui ne
+sui-]vent pas à écrire, à notre n[ostalgie des] paquebots, des juke-box, on [...] cherche
+son père dans les an[nées ... ] depuis bientôt quinze livres [...] temps, les jeunes
+Américains [prennent leur] époque à bras le corps. Ils son[t ...]. Ils ne croient pas à « la
+fin de [l'histoire ». Quel] jeune romancier français a fa[it un portrait] aussi mordant des
+années 80 q[ue Bret Easton] Ellis ? Y en a-t-il un seul po[ur portraiturer les] filles
+d'aujourd'hui avec autan[t de fougue et] de pugnacité que Jay McInern[ey dans Toute] ma Vie,
+ou pour s'aventurer d[ans le] sous-prolétariat be[r]ton que Bra[... Aucun] ne s'est attaqué
+aux or[... de la] finance, aux grandes entre[prises ...].
+
+[...] Alors, on aurait bien aimé vous [parler] du nouveau Guibert ou d'un nouveau [...]
+Pennac. Mais on n'a trouvé personne qui arrive à la cheville de Donna Tartt.
+
+                                                                          Frédéric Taddeï
+------------------------------------------------------------------
+END

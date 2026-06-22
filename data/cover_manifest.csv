@@ -1,0 +1,176 @@
+id,work,section,edition_name,country,language,publisher,year,isbn13,isbn10,cover_image,status
+TSH-001,TSH,2.1,US Knopf 1st/1st (acetate jacket),US,EN,Alfred A. Knopf,1992,9780679410324,0679410325,rId22.jpg,have
+TSH-002b,TSH,2.3b,US Knopf Advance Reader's Edition (glossy wraps; 576 pp; later pre-pub state),US,EN,Knopf,1992,,,TSH-ARC-US-spine_ebay.jpg,have
+TSH-003,TSH,2.4,UK Viking 1st (Faun and Girl),UK,EN,Viking,1992,9780670846795,0670846791,TSH-UK-VIK92-signed-cover_ebay.jpg,have
+TSH-004,TSH,2.5,UK Viking uncorrected proof (epigraph variant),UK,EN,Viking,1992,,,,missing
+TSH-005,TSH,2.5A,UK Viking trial binding 'snowfall',UK,EN,Viking,1992,,,,missing
+TSH-006,TSH,2.6,Penguin UK trade paperback 1st,UK,EN,Penguin,1993,9780140233186,0140233180,,missing
+TSH-007,TSH,2.6,US Vintage Contemporaries paperback 1st,US,EN,Vintage,2004,9781400031702,1400031702,TSH-US-VINTAGE04-cover_publisher.jpg,have
+TSH-008,TSH,2.6A,Ivy Books International Edition,US,EN,Ivy/Ballantine,1993,9780804111775,0804111774,TSH-IVY-INT-cover_abebooks.jpg,have
+TSH-009,TSH,2.6B,Ballantine US domestic mass-market 1993,US,EN,Ballantine,1993,9780804111355,0804111359,TSH-BAL-DOM93-cover_abebooks.jpg,have
+TSH-010,TSH,2.6C,Random House trade paperback 1996,US,EN,Random House,1996,9780449911518,0449911519,TSH-US-RH96-cover_ebay.jpg,have
+TSH-011,TSH,2.7,Bloomsbury 2009 boxed signed limited (TSH+TLF),UK,EN,Bloomsbury,2009,9781408802922,1408802929,rId70.jpg,have
+TSH-012,TSH,2.7A,Penguin UK 25th Anniversary 2017,UK,EN,Penguin,2017,9780241982884,0241982880,TSH-UK-25ANN-cover_abebooks.jpg,have
+TSH-013,TSH,2.8,Viking 30th Anniversary signed numbered (#500),UK,EN,Viking,2022,,,TSH-30ANN-signed-lim-page_ebay.jpg,have
+TSH-014,TSH,2.10,TSH 2023 Unabridged Audiobook (Tartt narrated),US,EN,Random House Audio,2023,,,rId22.jpg,alias (shares cover)
+TSH-015,TSH,2.10,"TSH unabridged audiobook (Karen White, Penguin Audio)",US,EN,Penguin Audio/Brilliance,1993,,,rId22.jpg,alias (shares cover)
+TSH-016,TSH,2.15,Easton Press signed leather edition,US,EN,Easton Press,2014,,,rId72.jpg,have
+TSH-F01,TSH,2.9,Korean 1992 first - 비밀의 계절,KR,ko,까치글방 (Kachi Gul Bang),1992,,,TSH-F01-publisher.jpg,have
+TSH-F02,TSH,2.9,Italian Rizzoli 1st HC - Dio di illusioni,IT,it,Rizzoli,1992,9788817677990,,TSH-F02-publisher.jpg,have
+TSH-F02b,TSH,2.9,Italian Rizzoli PB - Dio di illusioni,IT,it,Rizzoli,later,9788817114752,,TSH-F02b-cover-openlibrary.jpg,have
+TSH-F03,TSH,2.9,Dutch Anthos - De verborgen geschiedenis,NL,nl,Anthos (Baarn),1993,9789041403322,,TSH-F03-cover-openlibrary.jpg,have
+TSH-F04,TSH,2.9,French Plon - Le Maître des illusions,FR,fr,Plon,1993,9782259025935,,TSH-FR-PLON93-cover_goodreads.jpg,have
+TSH-F04b,TSH,2.9,French Pocket PB - Le Maître des illusions,FR,fr,Pocket,1994,9782266061568,,TSH-FR-POCKET94-cover_goodreads.jpg,have
+TSH-F05,TSH,2.9,German Goldmann - Die geheime Geschichte,DE,de,Goldmann,1993,9783442304417,,TSH-F05-cover-openlibrary.jpg,have
+TSH-F06,TSH,2.9,Japanese Fusosha (Vol 1) - シークレット・ヒストリー 上,JP,ja,扶桑社 (Fusosha),1994,9784594015152,4594015158,TSH-F06-cover-abebooks.jpg,have
+TSH-F06b,TSH,2.9,Japanese Fusosha (Vol 2) - シークレット・ヒストリー 下,JP,ja,扶桑社 (Fusosha),1994,9784594015169,4594015166,TSH-F06b-cover-abebooks.jpg,have
+TSH-F06c,TSH,2.9,Japanese Shinchosha bunko - 黙約 (Mokuyaku) afterword Murakami,JP,ja,新潮社 (Shinchosha),2017,9784102201213,4102201211,TSH-F06c-cover-abebooks.jpg,have
+TSH-F07,TSH,2.9,Russian Inostranka - Тайная история,RU,ru,Иностранка/Corpus AST,2009,9785170872954,,TSH-F07-cover-abebooks.jpg,have
+TSH-F08,TSH,2.9,Polish Zysk i S-ka 1st - Tajemna historia,PL,pl,Zysk i S-ka,1995,,,TSH-F08-publisher.jpg,have
+TSH-F08b,TSH,2.9,Polish Znak reissue 2022 - Tajemna Historia,PL,pl,Znak Literanova,2022,9788324077434,,TSH-PL-ZNAK22-cover_goodreads.jpg,have
+TSH-F09,TSH,2.9,Greek Nea Synora - Η μυστική ιστορία,GR,el,Νέα Σύνορα,1994,9789602364802,9602364807,TSH-EL-LIVANIS95-cover_goodreads.jpg,have
+TSH-F10,TSH,2.9,Spanish Plaza & Janés - El secreto,ES,es,Plaza & Janés,1993,9788401385025,8401385024,TSH-ES-PLAZAJANES93-cover_goodreads.jpg,have
+TSH-F10b,TSH,2.9,Spanish Lumen reissue - El secreto,ES,es,Lumen,later,9788426400307,,TSH-F10b-cover-openlibrary.jpg,have
+TSH-F11,TSH,2.9,Chinese Chongqing 2007 - 校园秘史,CN,zh,重庆出版社,2007,9787536683099,,TSH-CS-OSVETA96-cover_ebay.jpg,have
+TSH-F11b,TSH,2.9,Chinese People's Lit 2016 - 秘史,CN,zh,人民文学出版社,2016,,,,missing
+TSH-F12,TSH,2.9,Portuguese (BR) - A História Secreta,BR,pt,Companhia das Letras,mid-1990s,9788571644373,,TSH-F12-cover-abebooks.jpg,have
+TSH-F12b,TSH,2.9,Portuguese (BR) reissue 2021,BR,pt,Companhia das Letras,2021,9786559210466,,TSH-F12b-cover-abebooks.jpg,have
+TSH-F13,TSH,2.9,Finnish WSOY - Jumalat Juhlivat Öisin,FI,fi,WSOY,1993,9789510189665,9510189669,TSH-F13-publisher.jpg,have
+TSH-F14,TSH,2.9,Norwegian Tiden - Den hemmelige historien,NO,no,Tiden Norsk Forlag,1994,9788205599338,,TSH-F14-ark.jpg,have
+TSH-F15,TSH,2.9,Swedish Bonnier Alba - Den hemliga historien,SE,sv,Bonnier Alba,1993,9789134512962,,TSH-F15-bokborsen.jpg,have
+TSH-F16,TSH,2.9,Danish Lindhardt og Ringhof - Den hemmelige historie,DK,da,Lindhardt og Ringhof,1993,9788711336861,,TSH-DA-LINDHARDT93-cover_goodreads.jpg,have
+TSH-F17,TSH,2.9,Turkish Pegasus - Gizli Tarih,TR,tr,Pegasus Yayınları,2018,9786052994016,,TSH-F17-cover-openlibrary.jpg,have
+TSH-F18,TSH,2.9,Hungarian Park - A titkos történet,HU,hu,Park Könyvkiadó,2015,9789633551851,,TSH-F18-publisher.jpg,have
+TSH-F19,TSH,2.9,Hebrew Modan - ההיסטוריה הסודית,IL,he,Modan,2011,,,TSH-F19-simania-modan.jpg,have
+TSH-F20,TSH,2.9,Czech Osveta/Argo - Tajná historie,CZ,cs,Osveta (later Argo),1996,9788021703629,8021703628,TSH-CS-OSVETA96-cover_ebay.jpg,have
+TSH-F21,TSH,2.9,Lithuanian Alma Littera - Slapta istorija,LT,lt,Alma Littera,1998,,,TSH-LT-ALMA98-cover_goodreads.jpg,have
+TSH-F22,TSH,2.9,Romanian Litera - Istoria secretă,RO,ro,Litera,2022,,,TSH-RO-LITERA22-cover_goodreads.jpg,have
+TSH-F23,TSH,2.9,Korean reissue 은행나무 - 비밀의 계절,KR,ko,은행나무 (Eunhaeng-namu),2015,9788956608556,,TSH-F23-publisher.jpg,have
+TLF-001,TLF,3.1,US Knopf 1st/1st (orange/red jacket),US,EN,Alfred A. Knopf,2002,9781400031702,1400031702,TLF-US-K1_1_c1801f234a.jpg,have
+TLF-002,TLF,3.2,US Knopf uncorrected proof / ARC,US,EN,Knopf,2002,,,TLF-US-ARC-cover.jpg,have
+TLF-003,TLF,3.3,UK Bloomsbury trade hardcover 1st,UK,EN,Bloomsbury,2002,9780747562115,0747562113,TLF-RBC_8fb3f21e4b.jpg,have
+TLF-004,TLF,3.4,UK Bloomsbury Deluxe Limited 350 signed,UK,EN,Bloomsbury,2002,9780747564225,,rId34.jpg,have
+TLF-005,TLF,3.5,UK Bloomsbury Advance Review Copy (940 signed),UK,EN,Bloomsbury,2002,,,rId73.jpg,have
+TLF-006,TLF,3.7,TLF abridged audiobook (Tartt narrated),US,EN,Random House Audio,2002,9780553714067,,TLF-US-K1_1_c1801f234a.jpg,alias (shares cover)
+TLF-007,TLF,3.7,"TLF unabridged audiobook (Karen White, 20 CDs)",US,EN,Random House Audio,2002,9780736688383,0736688382,TLF-007-cover-abebooks.jpg,have
+TLF-008,TLF,3.8,TLF Random House Large Print 2005,US,EN,Random House Large Print,2005,9780375434976,0375434976,TLF-008-cover-openlibrary.jpg,have
+TLF-009,TLF,3.10,UK Bloomsbury paperback 1st 2003,UK,EN,Bloomsbury,2003,9780747564133,0747564132,TLF-009-cover-openlibrary.jpg,have
+TLF-010,TLF,3.11,US Vintage Contemporaries paperback 1st 2003,US,EN,Vintage Contemporaries,2003,9781400031696,1400031699,TLF-010-cover-openlibrary.jpg,have
+TLF-011,TLF,3.12,Bloomsbury Modern Classics paperback 2017,UK,EN,Bloomsbury,2017,9781408891360,,TLF-BMC-cover_abebooks.jpg,have
+TLF-F01,TLF,3.6,Dutch De Bezige Bij true first - De kleine vriend,NL,nl,De Bezige Bij,2002-09-15,9789023403555,,TLF-NL-BEZIGE02-cover_publisher.jpg,have
+TLF-F02,TLF,3.6,French Plon - Le petit copain,FR,fr,Plon,2003-09-18,9782259198172,,TLF-F02-cover-openlibrary.jpg,have
+TLF-F03,TLF,3.6,German Goldmann - Der kleine Freund,DE,de,Goldmann,2003,9783442306688,344230668X,TLF-F03-cover-openlibrary.jpg,have
+TLF-F04,TLF,3.6,Italian Rizzoli BUR - Il piccolo amico,IT,it,Rizzoli BUR Contemporanea,2004-05-12,9788817001793,,TLF-F04-cover-abebooks.jpg,have
+TLF-F05,TLF,3.6,Spanish Lumen - Un juego de niños,ES,es,Lumen,2003-10,9788426400314,,TLF-ES-LUMEN03-cover_goodreads.jpg,have
+TLF-F06,TLF,3.6,Greek Livanis - Ο μικρός φίλος,GR,el,Λιβάνης (Livanis),2003,9789601406824,,TLF-EL-LIVANIS03-cover_goodreads.jpg,have
+TLF-F07,TLF,3.6,Polish Zysk i S-ka 1st - Mały przyjaciel,PL,pl,Zysk i S-ka,2003,9788372984340,,TLF-PL-ZYSK03-cover_goodreads.jpg,have
+TLF-F08,TLF,3.6,Japanese Fusosha vol 1 - ひそやかな復讐 上,JP,ja,扶桑社 (Fusosha),2007-05-30,9784594053789,,TLF-F08-cover-abebooks.jpg,have
+TLF-F08b,TLF,3.6,Japanese Fusosha vol 2 - ひそやかな復讐 下,JP,ja,扶桑社 (Fusosha),2007-05-30,9784594053796,,TLF-F08b-cover-abebooks.jpg,have
+TLF-F09,TLF,3.6,Russian AST/Corpus - Маленький друг,RU,ru,AST/Corpus,2015,9785170943890,,TLF-F09-publisher.jpg,have
+TLF-F10,TLF,3.6,Korean Eunhaeng-namu - 작은 친구들,KR,ko,은행나무 (Eunhaeng-namu),2017-02,,,TLF-KO-EHN17-vol1-cover_publisher.jpg,have
+TLF-F11,TLF,3.6,Chinese (Trad) Marco Polo - 小友,TW,zh,馬可孛羅 (Marco Polo / Cite),2026-06-30,9786267520215,,,missing
+TLF-F12,TLF,3.6,Hebrew Zmora-Bitan - הידיד הקטן,IL,he,Zmora-Bitan,2005,,,TLF-F12-simania-zmora-bitan.jpg,have
+TG-001,TG,4.1,Het puttertje Dutch paperback (chronological true first),NL,nl,De Bezige Bij,2013-10-02,9789023485032,,HET-PUTTERTJE_1_f2d94d8d66.jpg,have
+TG-002,TG,4.2,US Little Brown 1st/1st (no Pulitzer text),US,EN,"Little, Brown",2013-10-22,9780316055437,0316055433,rId47.jpg,have
+TG-003,TG,4.2A,UK Little Brown trade hardcover 1st,UK,EN,"Little, Brown UK",2013-10-22,9780316258821,0316258822,TG-UK-LB13-signed-cover_ebay.jpg,have
+TG-004,TG,4.3,US Little Brown uncorrected proof / ARC,US,EN,"Little, Brown",2013,,,TG-US-ARC-cover.jpg,have
+TG-005,TG,4.5,UK Little Brown Deluxe Signed Limited (1000 numbered),UK,EN,"Little, Brown UK",2013,9781408704950,1408704951,TG-UK-DLX-Sothebys_1_ba53b8321d.png,have
+TG-006,TG,4.5A,UK Little Brown Deluxe Lettered Limited (26 A-Z),UK,EN,"Little, Brown UK",2013,9781408705100,1408705109,TG-UK-LETTERED-Z-slipcase_abe.jpg,have
+TG-007,TG,4.6,"Powell's Indiespensable Vol 43 (purple ink, slipcase + chapbook)",US,EN,Little Brown / Powell's,2013,,,rId50.jpg,have
+TG-008,TG,4.7,"Foyles signed first edition (copper ink, red sticker)",UK,EN,Foyles / Little Brown,2013,,,rId74.jpg,have
+TG-009,TG,4.8,Waterstones 10th Anniversary signed 2023,UK,EN,Abacus / Waterstones,2023,9780349146263,,TG-UK-10ANN-cover_ebay.jpg,have
+TG-010,TG,4.10,Barnes & Noble Signed First Edition,US,EN,"Little, Brown",2013,,,rId75.jpg,have
+TG-011,TG,4.11,US Little Brown 10th Anniversary Deluxe Signed 2023,US,EN,"Little, Brown",2023,9781408705100,,rId76.jpg,have
+TG-012,TG,4.13,TG unabridged audiobook (David Pittu),US,EN,Hachette Audio,2013,,,rId47.jpg,alias (shares cover)
+TG-013,TG,4.15,TG large-print edition 2013,US,EN,"Little, Brown",2013,9780316239875,0316239879,TG-US-LB13-LP-cover_openlibrary.jpg,have
+TG-014,TG,4.14,TG UK Abacus film tie-in 2019,UK,EN,Abacus,2019,9780349141602,,TG-014-cover-abebooks.jpg,have
+TG-015,TG,4.14,TG US Little Brown film tie-in 2019,US,EN,"Little, Brown",2019,,,rId47.jpg,alias (shares cover)
+TG-016,TG,4.16,TG US Kindle (B00BAXFECK),US,EN,"Little, Brown",2013-10-22,,,rId47.jpg,alias (shares cover)
+TG-017,TG,4.16,TG UK Kindle (B00C74SHRK),UK,EN,"Little, Brown UK",2013-10-22,,,TG-UK-LB13-signed-cover_ebay.jpg,alias (shares cover)
+TG-F01,TG,4.12,French Plon - Le Chardonneret,FR,fr,Plon (Feux croisés),2014,9782259221863,,TG-F01-cover-openlibrary.jpg,have
+TG-F02,TG,4.12,German Goldmann HC - Der Distelfink,DE,de,Goldmann,2014-03-10,9783442312399,,TG-DE-GOLDMANN14-cover_applebooks.jpg,have
+TG-F03,TG,4.12,Italian Rizzoli HC 1st - Il cardellino,IT,it,Rizzoli,2014-03-12,9788817072380,,TG-F03-cover-abebooks.jpg,have
+TG-F03b,TG,4.12,Italian BUR 2015 - Il cardellino,IT,it,Rizzoli BUR,2015,9788817081580,,TG-F03b-cover-abebooks.jpg,have
+TG-F04,TG,4.12,Spanish Lumen - El jilguero,ES,es,Lumen,2014,9788426422439,,TG-F04-cover-openlibrary.jpg,have
+TG-F05,TG,4.12,Greek Livanis - Η Καρδερίνα,GR,el,Λιβάνης (Livanis),2014,9789601428062,,TG-F05-cover-abebooks.jpg,have
+TG-F06,TG,4.12,Polish Znak - Szczygieł,PL,pl,Wydawnictwo Znak,2015-05,9788324026524,,TG-PL-ZNAK15-cover_goodreads.jpg,have
+TG-F07,TG,4.12,Japanese Kawade vol 1 - ゴールドフィンチ,JP,ja,河出書房新社 (Kawade),2016-06,9784309207070,,TG-JP-KAWADE16-vol1-cover_publisher.jpg,have
+TG-F08,TG,4.12,Russian AST/Corpus - Щегол,RU,ru,AST/Corpus,2014/2015,9785170854486,,TG-F08-ast.jpg,have
+TG-F09,TG,4.12,Korean Eunhaeng-namu vol 1 - 황금방울새,KR,ko,은행나무 (Eunhaeng-namu),2015-06-23,9788956608778,,TG-KO-EHN15-vol1-cover_publisher.jpg,have
+TG-F10,TG,4.12,Chinese People's Literature - 金翅雀,CN,zh,人民文学出版社,2016-01,9787020141432,,TG-F10-cover-wikipedia.jpg,have
+TG-F11,TG,4.12,Portuguese BR Companhia das Letras - O pintassilgo,BR,pt,Companhia das Letras,2014-08-14,9788535924688,,TG-F11-cover-openlibrary.jpg,have
+TG-F11b,TG,4.12,Portuguese (PT) Editorial Presença - O Pintassilgo,PT,pt,Editorial Presença,2014,9789722353663,,TG-PT-PT-PRESENCA14-cover_goodreads.jpg,have
+TG-F12,TG,4.12,Czech Argo - Stehlík,CZ,cs,Argo,2015,9788025716038,8025716031,TG-CS-ARGO15-cover_ebay.jpg,have
+TG-F13,TG,4.12,Hungarian Park - Az Aranypinty,HU,hu,Park Könyvkiadó,2014,9789636332761,,TG-F13-publisher.jpg,have
+TG-F14,TG,4.12,Romanian Litera - Sticletele,RO,ro,Litera,2014/2018,9786063332654,,TG-RO-LITERA14-cover_goodreads.jpg,have
+TG-F15,TG,4.12,Swedish Albert Bonniers - Steglitsan,SE,sv,Albert Bonniers,2014,9789100136872,,TG-F15-bokborsen.jpg,have
+TG-F16,TG,4.12,Norwegian Cappelen Damm - Stillitsen,NO,no,Cappelen Damm,2014,9788202437121,,TG-NO-CAPPELEN14-cover_goodreads.jpg,have
+TG-F17,TG,4.12,Turkish Doğan Kitap - Saka Kuşu,TR,tr,Doğan Kitap,2014,9786050921500,,TG-F17-pegasus.jpg,have
+TG-F18,TG,4.12,Hebrew Modan - הציפור החולמנית,IL,he,Modan / Kinneret Zmora-Bitan,2015,,,TG-F18-wikipedia.jpg,have
+TG-F19,TG,4.12,Arabic - العصفور الذهبي,Arab,ar,Dar Athar / Kalima,2014-2015,,,,missing
+TG-F20,TG,4.12,Thai - นกโกลด์ฟินช์,TH,th,Resonance/Earnestly,2018,,,,missing
+MAG-001,Short Fiction,5.1,Harper's July 1992 - Sleepytown,US,EN,Harper's Magazine,1992-07,,,HARPERS-1992-07-cover.gif,have
+MAG-002,Short Fiction,5.2,The New Yorker April 1993 - Tam-O'-Shanter,US,EN,The New Yorker,1993-04,,,NEWYORKER-1993-04-cover.jpg,have
+MAG-003,Short Fiction,5.3,Harper's December 1993 - A Christmas Pageant,US,EN,Harper's Magazine,1993-12,,,HARPERS-1993-12-cover.gif,have
+MAG-004,Short Fiction,5.4,GQ May 1995 - A Garter Snake,US,EN,GQ Magazine,1995-05,,,GQ-1995-05-cover.jpg,have
+MAG-005,Short Fiction,5.5,Guardian Weekend June 25 2005 - The Ambush,UK,EN,The Guardian,2005-06-25,,,,n/a
+MAG-006,Short Fiction,5.6,Het land van de Papaver - De Bezige Bij 2004,NL,nl,De Bezige Bij,2004,,,TLF-NL-BEZIGE04-cover_ebay.jpg,have
+MAG-007,Short Fiction,5.x,Penguin 60s - A Christmas Pageant reprint,UK,EN,Penguin Books,1995,9780140252989,,MAG-007-cover-abebooks.jpg,have
+MAG-008,Nonfiction,6.1,Oxford American #2 Fall 1992 - Basketball Season,US,EN,Oxford American,1992,,,OA-1992-02-cover.jpg,have
+MAG-009,Nonfiction,6.2,Harper's April 1994 - Team Spirit,US,EN,Harper's Magazine,1994-04,,,HARPERS-1994-04-cover.gif,have
+MAG-010,Nonfiction,6.3,Oxford American #30 Nov/Dec 1999 - Spirituality in the Modern Novel,US,EN,Oxford American,1999-11,,,OA-1999-30-cover.jpg,have
+MAG-011,Nonfiction,6.4,Remembering Willie 2000 - UPMS,US,EN,University Press of Mississippi,2000,9781578062676,,REMEMBERING-WILLIE-UPMS2000-cover_openlibrary.jpg,have
+MAG-012,Nonfiction,6.5,Harper's July 2024 - Art and Artifice,US,EN,Harper's Magazine,2024-07,,,HARPERS-2024-07-cover.jpg,have
+MAG-013,Nonfiction,6.6,NYT June 9 2020 - On the Singular Voice of Charles Portis,US,EN,The New York Times,2020-06-09,,,,n/a
+MAG-014,Nonfiction,6.7,Harper's July 2000 - The Glory of J. F. Powers,US,EN,Harper's Magazine,2000-07,,,HARPERS-2000-07-cover.gif,have
+MAG-015,Nonfiction,6.8,Oxford American #41 Fall 2001 - Spanish Grandeur in Mississippi,US,EN,Oxford American,2001,,,OA-2001-41-cover.jpg,have
+MAG-016,Nonfiction,6.9,Oxford American #6 Mar/Apr 1995 - In Melbourne,US,EN,Oxford American,1995-03,,,OA-1995-06-cover.jpg,have
+MAG-017,Nonfiction,6.10,Garden & Gun Holiday 2007 - Early Times in Mississippi,US,EN,Garden & Gun,2007,,,GG-2007-HOLIDAY-cover.jpg,have
+MAG-018,Nonfiction,6.11,The Observer Nov 16 2003 - This much I know,UK,EN,The Observer,2003-11-16,,,MAG-018_OMObserver_2003-11-16_cover_QnIAAOSw.webp,have
+MAG-019,Nonfiction,6.12,Oxford American #29 Sep/Oct 1999 - Willie Morris Tribute,US,EN,Oxford American,1999-09,,,OA-1999-29-cover.jpg,have
+CON-001,Contributions,7.1,True Grit (Bloomsbury 2005) - Tartt introduction,UK,EN,Bloomsbury,2005,,,CON-001-truegrit-bloomsbury.jpg,have
+CON-001b,Contributions,7.1,True Grit (Overlook 2010 movie tie-in reissue),US,EN,Overlook Press,2010,9781590204597,,CON-001b-publisher.jpg,have
+CON-001b2,Contributions,7.1,True Grit (Overlook 2010 reprint trade ed - Tartt afterword positioned as AFTERWORD in TOC after the 7 novel sections; ~2915 words; same essay as Bloomsbury 2005 intro and Brick Magazine #76 2005 text),US,EN,Overlook Press,2010,9781585673698,,TrueGrit-Portis-OverlookPress-2010Reprint-9781585673698-AnnasArchive.epub,have
+CON-002,Contributions,7.2,True Grit Audiobook (Recorded Books 2006) - Tartt narrator,US,EN,Recorded Books,2006,9781428193772,,CON-001b-publisher.jpg,alias (shares cover)
+CON-003,Contributions,7.4,"Winesburg, Ohio audiobook contribution",US,EN,HarperAudio,,,,,missing
+CON-004,Contributions,7.5,Murder For Love - Penzler ed (Delacorte 1996),US,EN,Delacorte Press,1996,9780385314664,,CON-004-publisher.jpg,have
+CON-004b,Contributions,7.5,Murder For Love - Dell paperback,US,EN,Dell,later,9780440613589,,CON-004b-cover-openlibrary.jpg,have
+CON-005,Contributions,7.6,Reclaiming Art in the Age of Artifice (Counterpoint/Basic 2024),US,EN,Counterpoint Press / Basic Books,2024,9781541607248,,CON-005-cover-abebooks.jpg,have
+CON-005b,Contributions,7.6,Reclaiming Art audiobook 2024,US,EN,Counterpoint Press,2024,9781668640289,,CON-005-cover-abebooks.jpg,alias (shares cover)
+CON-006,Contributions,7.7,Bomb Magazine Summer 1996 - Editor's Choice,US,EN,Bomb Magazine,1996,,,CON-006-bomb.jpg,have
+CON-007,Contributions,7.8,Erin Parish 'Into the Blue Again' exhibition catalog 1997,US,EN,Jeffrey Coploff Fine Art,1997,,,TARTT-CONTRIB-ErinParish-IntoTheBlueAgain-Coploff-1997-cover_scan.jpg,have
+CON-008,Contributions,7.9,Pen Meets Paint - 200 Years Mauritshuis (Waanders 2022),NL,EN,Waanders / Mauritshuis,2022,9789462623811,,CON-008-cover-abebooks.jpg,have
+CON-009,Contributions,7.12,Artforum International Oct 2001 - William Eggleston Portfolio,US,EN,Artforum,2001-10,,,ARTFORUM-2001-10-cover_archive.jpg,have
+EPH-001,Press,8.1,Vanity Fair September 1992 - Smart Tartt by Kaplan,US,EN,Vanity Fair / Condé Nast,1992-09,,,VF-1992-09-cover.jpg,have
+EPH-002,Press,8.2,The Bookseller (UK) June 27 2002,UK,EN,The Bookseller,2002-06-27,,,,n/a
+EPH-002b,Press,8.2,The Bookseller (UK) Sept 26 2002 - Embargoes under pressure,UK,EN,The Bookseller,2002-09-26,,,,n/a
+EPH-003,Press,8.3,Lenox Hill chapbook 'Tam O'Shanter' 250 copies signed 2004,US,EN,Lenox Hill Bookstore,2004,,,LENOX-CHAPBOOK-bib_9742eb47f0.jpg,have
+EPH-004,Press,8.4,Esquire September 1992 'Tartt's Sweet Deal',US,EN,Esquire / Hearst,1992-09,,,ESQUIRE-1992-09-cover.jpg,have
+EPH-005,Press,8.4,Newsweek September 7 1992 'Anatomy of a Hype',US,EN,Newsweek,1992-09-07,,,EPH-005-newsweek-1992-alt.webp,have
+EPH-006,Press,8.4,Vogue September 1992 (Claudia Schiffer by Arthur Elgort),US,EN,Vogue / Condé Nast,1992-09,,,VOGUE-1992-09-cover_archive.jpg,have
+EPH-007,Press,8.4,Cosmopolitan September 1992,US,EN,Cosmopolitan / Hearst,1992-09,,,COSMO-1992-09-cover_archive.jpg,have
+EPH-008,Press,8.4,Glamour September 1992,US,EN,Glamour / Condé Nast,1992-09,,,GLAMOUR-1992-09-cover_archive.jpg,have
+CON-010,Contributions,7.13,"A William Maxwell Portrait (Norton 2004) - Tartt essay ""Mr. Maxwell"" pp. 19-33",US,EN,W. W. Norton & Company,2004,9780393057713,0393057712,CON-010-cover-archive.jpg,have
+CON-010b,Contributions,7.13,A William Maxwell Portrait (Norton 2004) - front dust jacket flap (ISBN + Tartt blurb),US,EN,W. W. Norton & Company,2004,9780393057713,0393057712,CON-010b-flap-archive.jpg,have
+TSH-002a,TSH,2.3a,US Knopf Uncorrected Proof (plain wraps; 592 pp; earlier pre-pub state),US,EN,Alfred A. Knopf,1992,,,TSH-PROOF-US-1-frontcover_user.jpg,have
+EPH-009,Press,8.5,Borzoi Reader Vol 4 No 3 Fall 1992 (Knopf seasonal catalog with TSH pre-pub excerpt p. 7),US,EN,Alfred A. Knopf,1992,,,BorzoiReader-Vol4No3-Knopf-Fall1992-CamScanner-full12pp.pdf,have
+CON-011,Contributions,7.14,Folio Society - We Have Always Lived in the Castle (Shirley Jackson) - Tartt afterword (standard ed),UK,EN,The Folio Society,2023,,,TARTT-INTRO-FOLIO-Jackson-2023_front_CAST_1.jpg,have
+CON-011a,Contributions,7.14,Folio Society - We Have Always Lived in the Castle (Shirley Jackson) - Tartt afterword pp 177-185 (signed limited 500 numbered + 20 lettered HC copies),UK,EN,The Folio Society,2023,,,TARTT-INTRO-FOLIO-Jackson-2023-LIMITED_LCLT_1_base.jpg,have
+CON-012,Contributions,7.15,The Colors of Sies Marjan (Sander Lak) - Tartt contribution,US,EN,Rizzoli,2022,9780847872206,0847872203,TARTT-CONTRIB-SiesMarjan-Rizzoli-2022_cover_afEAAOSw.webp,have
+CON-013,Contributions,7.16,By the Book - Writers on Literature (Pamela Paul ed) Henry Holt 2014 - Tartt By the Book Q&A reprint,US,EN,Henry Holt & Co.,2014,9781627791458,162779145X,TARTT-CONTRIB-ByTheBook-Paul-Holt-2014_cover_zKIAAeSw.webp,have
+MAG-020,Short Fiction,5.7,Sommer Sonne Sand und mehr (ed Georg Reuchlein,"Goldmann 1995) - contains ""Schottenmütze"" = German translation of Tartt's ""Tam-O'-Shanter"" (cf §5.2)",DE,DE,Goldmann Verlag,1995,9783442429455,sommer_sonne_sand_TOC.pdf),
+CON-014,Contributions,7.17,National Gallery of Art Washington - A World of Art (Martha Richler) - ✗ MISIDENTIFICATION (no Tartt content; full PDF examined May 13 2026),UK/US,EN,Scala Books / Antique Collector's Club,1998,9781857591767,1857591763,TARTT-CONTRIB-NGA-Scala-Richler-1999_cover_publisher.jpg,not by Tartt
+CON-014b,Contributions,7.17,National Gallery of Art Washington - A World of Art - paperback ed,UK/US,EN,Scala Books / Antique Collector's Club,1999,9781857591873,1857591879,,missing
+CON-015,Contributions,7.18,The Same River Twice (USN 2014) - ✗ MISIDENTIFICATION (no Tartt content; full PDF examined May 13 2026; editor is Connie Culpepper),US,EN,University School of Nashville,2014,9781615224715,1615224718,TARTT-CONTRIB-SameRiverTwice-USN-2014_cover_abebooks.jpg,not by Tartt
+CON-015b,Contributions,7.18,The Same River Twice - Reminiscences from PDS-USN 1915-2015 - paperback,US,EN,University School of Nashville,2014,9781615224869,1615224866,TARTT-CONTRIB-SameRiverTwice-USN-2014_cover_abebooks.jpg,alias (shares cover)
+CON-016,Contributions,7.19,Fairy Tale Review Vol 1 The Blue Issue (Bernheimer ed) - Tartt essay From Barrie to Stevenson (= venue for ISFDB 2005 On Barrie and Stevenson),US,EN,Fairy Tale Review (later WSU Press distribution),2005,,,TARTT-CONTRIB-FairyTaleReview-Blue-Vol1-2005_cover_wsup.jpg,have
+CON-019,Contributions,7.22,Fairy Tale Review Vol 2 The Green Issue (Bernheimer ed) - Tartt translation of Rimbaud Four Poems from Les Illuminations (★ first documented Tartt translation),US,EN,Fairy Tale Review (later WSU Press distribution),2006,9780817355012,0817355014,TARTT-CONTRIB-FairyTaleReview-Green-Vol2-2006_cover_wsup-real.jpg,have
+CON-017,Contributions,7.20,Mein Lieblingsmensch - Geschichten ueber besondere Verbindungen (ed Armit + Thomma) - German anthology w/ translated Tartt story,CH,DE,Diogenes Verlag,2022,9783257245998,3257245998,TARTT-CONTRIB-MeinLieblingsmensch-Diogenes-2022_cover_publisher.jpg,have
+CON-017a,Contributions,7.20,Mein Lieblingsmensch - Diogenes Deluxe (HC) — 336pp variant published 21 Jan 2026,CH,DE,Diogenes Verlag,2026,9783257261936,3257261934,TARTT-CONTRIB-MeinLieblingsmensch-Diogenes-Deluxe-2026_cover_publisher.png,have
+CON-018,Contributions,7.21,Cornbread Nation 5 - Best of Southern Food Writing (Sauceman ed; Edge gen ed) - Tartt bourbon piece (probable reprint of Early Times in Mississippi §6.10),US,EN,UGA Press / Southern Foodways Alliance,2014,9780820335070,082033507X,TARTT-CONTRIB-CornbreadNation5-UGA-2014_cover_blackbird.jpg,have
+CON-020,Contributions,7.23,The Life of St Francis (Bonaventure tr Cousins) - Tartt Foreword (★ 2nd-earliest CONFIRMED Tartt foreword after True Grit by 2 weeks; Feb 1 2005),US,EN,HarperCollins Spiritual Classics / Harper San Francisco,2005,9780060576523,0060576529,TARTT-FOREWORD-LifeStFrancis-HarperOne-2005_cover_openlibrary.jpg,have
+CON-021,Contributions,7.24,When We Were Young - A Compendium of Childhood (Burningham compiler) - NEW DISCOVERY Tartt childhood memoir 'encounter with a hummingbird',UK,EN,Bloomsbury Publishing PLC,2005,9780747576631,0747576637,TARTT-CONTRIB-WhenWeWereYoung-Bloomsbury-2005_cover_openlibrary.jpg,have
+CON-022,Contributions,7.25,Legendary Authors and the Clothes They Wore (Terry Newman) - Tartt featured among 50 authors with photo+quotes+anecdotes,US,EN,Harper Design / HarperCollins,2017,9780062428301,0062428306,,see notes
+CON-023,Contributions,7.26,A Portrait of Southern Writers (Curt Richter photo book) - Tartt formal portrait NYC Winter 1996,US,EN,Hill Street Press LLC Athens GA,2000,9781892514837,1892514834,TARTT-CONTRIB-PortraitSouthernWriters-Richter-2000_cover_abebooks.jpg,have
+CON-024,Contributions,7.27,Livraison N°2 (Marie Birde ed Stockholm 2006-2007) - NEW DISCOVERY Tartt letter (themed letter-writing issue),SE,EN,Livraison Stockholm,2006,9197563307,9197563307,TARTT-CONTRIB-Livraison-No2-2006_cover_scan.jpg,have
+MAG-021,Short Fiction,5.3,"A Very Southern Christmas - Holiday Stories from the South's Best Writers (McCord+Tucker eds Algonquin 2003) - reprints Tartt's ""A Christmas Pageant"" (§5.3 Harper's Dec 1993)",US,EN,Algonquin Books of Chapel Hill,2003,9781565123830,1565123832,TARTT-CONTRIB-VerySouthernChristmas-Algonquin-2003_cover_openlibrary.jpg,have

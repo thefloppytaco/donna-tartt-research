@@ -1,0 +1,297 @@
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+  <title>artforum.com / IN PRINT</title>
+  <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+  <link rel=stylesheet type="text/css" href="/style.css">
+  <script language="JavaScript" type="text/javascript">
+  <!--
+    var timeout = 3000;
+    var timeout_count = 0;
+    var timeout_lastcall = 0;
+
+    function img_act(imgName) {
+      if (document.images != null) {
+        imgOn = eval(imgName + "on.src");
+        document[imgName].src = imgOn;
+      }
+    }
+
+    function img_inact(imgName) {
+      if (document.images != null) {
+        imgOff = eval(imgName + "off.src");
+        document[imgName].src = imgOff;
+      }
+    }
+
+    var ads_top_offset = 0;
+    var ads_topright_offset = 0;
+    var ads_offset = 0;
+    var ads_numdisplay = 0;
+
+    function Ad(id, ext, url)
+    {
+      this.id = id; 
+      this.ext = ext;
+      this.url = url;
+      this.image = null;
+    }
+
+    var ads_top = null;
+    var ads_topright = null;
+    var ads = null;
+
+    function ads_open_top (pos) {
+      if(ads_top != null) {
+        var url = ads_top[ads_top_offset % ads_top.length].url;
+        if(url != '')
+          open('/ads.php?url=' + escape(url), '_blank');
+      }
+    }
+
+    function ads_open_topright (pos) {
+      if(ads_topright != null) {
+        var url = ads_topright[ads_topright_offset % ads_topright.length].url;
+        if(url != '')
+          open('/ads.php?url=' + escape(url), '_blank');
+      }
+    }
+
+    function ads_open (pos) {
+      if(ads != null) {
+        var url = ads[(pos + ads_offset) % ads.length].url;
+        if(url != '')
+          open('/ads.php?url=' + escape(url), '_blank');
+      }
+    }
+
+    function ads_change () {
+      var now = new Date();
+      if((now.getTime() - timeout_lastcall) * 2 < timeout)
+        return;
+
+      timeout_lastcall = now.getTime();
+      timeout_count++;
+
+      if(ads_top != null && (timeout_count % 3) == 0) {
+        if(++ads_top_offset >= ads_top.length)
+          ads_top_offset = 0;
+        if(document['ad_top'] != null)
+          document['ad_top'].src = ads_top[ads_top_offset].image.src;
+      }
+
+      if(ads_topright != null && (timeout_count % 4) == 0) {
+        if(++ads_topright_offset >= ads_topright.length)
+          ads_topright_offset = 0;
+        if(document['ad_topright'] != null)
+          document['ad_topright'].src = ads_topright[ads_topright_offset].image.src;
+      }
+
+      if(ads != null && (timeout_count % 3) == 0) {
+        if(++ads_offset >= ads.length)
+          ads_offset = 0;
+        for(var i=0; i < ads_numdisplay; i++) {
+          if(document['ad'+i] != null)
+            document['ad'+i].src = ads[(i + ads_offset) % ads.length].image.src;
+        }
+      }
+    }
+
+    function print_open (url) {
+      if(url != '')
+        open(url, '_blank', 'width=520,resizable=yes,scrollbars=yes');
+    }
+
+    function create_image(src) {
+		  rslt = new Image();
+		  rslt.src = src;
+		  return rslt;
+	  }
+
+    function loaded() {
+      if(document.images != null) {
+        for(var i=0; ads_top != null && i < ads_top.length; i++) {
+          ads_top[i].image = create_image('/uploads/ads/ads' + ads_top[i].id + ads_top[i].ext);
+          if(i == 0 && document['ad_top'] != null)
+            document['ad_top'].src = ads_top[i].image.src;
+        }
+        for(var i=0; ads_topright != null && i < ads_topright.length; i++) {
+          ads_topright[i].image = create_image('/uploads/ads/ads' + ads_topright[i].id + ads_topright[i].ext);
+          if(i == 0 && document['ad_topright'] != null)
+            document['ad_topright'].src = ads_topright[i].image.src;
+        }
+        if(ads != null) {
+          for(var i=0; i < ads.length; i++) {
+            ads[i].image = create_image('/uploads/ads/ads' + ads[i].id + ads[i].ext);
+            if(i < ads_numdisplay && document['ad' + i] != null)
+              document['ad'+i].src = ads[i].image.src;
+          }
+          for(var i=ads.length; i < ads_numdisplay; i++) {
+            if(document['ad'+i] != null)
+              document['ad'+i].src = ads[i % ads.length].image.src;
+          }
+        }
+        window.setInterval('ads_change()', timeout);
+      }
+    }
+
+  var ad_top = new Image(100, 40);
+ads_top = new Array(new Ad(20, '.gif', 'http://www.gucci.com/'),new Ad(21, '.gif', 'http://www.absolut.com'),new Ad(48, '.gif', 'http://www.moma.org'),new Ad(19, '.gif', 'http://www.absolut.com/'));
+var ad_topright = new Image(110, 110);
+ads_topright = new Array(new Ad(18, '.gif', 'http://www.luhringaugustine.com/'),new Ad(16, '.gif', 'http://www.gagosian.com/'),new Ad(34, '.gif', 'http://www.paceprints.com'));
+ads_numdisplay = 8;var ads = new Image(80, 80);
+var ads1 = new Image(80, 80);
+var ads2 = new Image(80, 80);
+var ads3 = new Image(80, 80);
+var ads4 = new Image(80, 80);
+var ads5 = new Image(80, 80);
+var ads6 = new Image(80, 80);
+var ads7 = new Image(80, 80);
+ads = new Array(new Ad(36, '.gif', 'http://www.damelioterras.com'),new Ad(51, '.gif', 'http://auction.thing.net/'),new Ad(35, '.gif', 'http://www.feldmangallery.com/pages/home_frame.html'),new Ad(9, '.gif', 'http://www.charlescowlesgallery.com/'),new Ad(47, '.jpg', 'http://www.yanceyrichardson.com'),new Ad(8, '.gif', 'http://www.alexanderandbonin.com/'),new Ad(33, '.gif', 'http://www.zwirnerandwirth.com'),new Ad(3, '.gif', 'http://www.303gallery.com/'),new Ad(1, '.gif', 'http://www.i-20.com/'),new Ad(11, '.gif', 'http://www.corvi-mora.com/'),new Ad(61, '.gif', 'http://www.swisspeaks.org'),new Ad(6, '.gif', 'http://www.robertmillergallery.com/'),new Ad(60, '.gif', 'http://www.artpace.org'),new Ad(50, '.gif', 'http://www.exhibit-e.com'),new Ad(39, '.gif', 'http://www.kentgallery.com'),new Ad(4, '.gif', 'http://www.uwm.edu/SOA/inova'));
+menu0on = new Image;
+menu0on.src="/media/menu/news_t.gif";
+menu0off = new Image;
+menu0off.src="/media/menu/news_f.gif";
+menu1on = new Image;
+menu1on.src="/media/menu/picks_t.gif";
+menu1off = new Image;
+menu1off.src="/media/menu/picks_f.gif";
+menu2on = new Image;
+menu2on.src="/media/menu/interview_t.gif";
+menu2off = new Image;
+menu2off.src="/media/menu/interview_f.gif";
+menu3on = new Image;
+menu3on.src="/media/menu/diary_t.gif";
+menu3off = new Image;
+menu3off.src="/media/menu/diary_f.gif";
+menu4on = new Image;
+menu4on.src="/media/menu/inprint_t.gif";
+menu4off = new Image;
+menu4off.src="/media/menu/inprint_t.gif";
+menu5on = new Image;
+menu5on.src="/media/menu/museums_t.gif";
+menu5off = new Image;
+menu5off.src="/media/menu/museums_f.gif";
+menu6on = new Image;
+menu6on.src="/media/menu/links_t.gif";
+menu6off = new Image;
+menu6off.src="/media/menu/links_f.gif";
+menu7on = new Image;
+menu7on.src="/media/menu/talkback_t.gif";
+menu7off = new Image;
+menu7off.src="/media/menu/talkback_f.gif";
+menu8on = new Image;
+menu8on.src="/media/menu/bookforum_t.gif";
+menu8off = new Image;
+menu8off.src="/media/menu/bookforum_f.gif";
+menu9on = new Image;
+menu9on.src="/media/menu/subscribe_t.gif";
+menu9off = new Image;
+menu9off.src="/media/menu/subscribe_f.gif";
+
+  // -->
+  </script>
+</head>
+
+<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" onload="loaded()">
+<table border="0" cellspacing="0" cellpadding="0" width="800">
+<tr>
+  <td width="27"><img src="/media/gen_gifs/spacer.gif" width="1" height="1" alt="" hspace="13"></td>
+  <td align="left" valign="middle" width="612"><table border="0" cellspacing="0" cellpadding="0" width="600">
+<tr>
+  <td align="left" valign="middle">  <a href="javascript:ads_open_top()" target="_self"><img src="/media/gen_gifs/spacer.gif" width="100" height="40" alt="" border="0" name="ad_top" /></a>
+</td>
+  <td align="right" valign="middle"><map name="logo_anniversary"><area shape="rect" coords="0,0,70,47" 
+  href="/inprint/" alt="" /><area shape="rect" coords="73,0,280,47" 
+  href="/./" alt="ARTFORUM" /></map><img src="/media/logo_anniversary/logo_inprint.gif" border="0" width="280" height="47" vspace="12" alt="ARTFORUM" usemap="#logo_anniversary" /></td>
+</tr>
+<tr><td colspan="2"><img scr="/media/gen_gifs/spacer.gif" width="1" height="1" vspace="6" alt="" /></td></tr>
+<tr><td colspan="2" valign="bottom"><a href="/news/" onmouseover="img_act('menu0')" onmouseout="img_inact('menu0')"><img src="/media/menu/news_f.gif" alt="news" name="menu0" border="0" vspace="4" hspace="0" width="36" height="11" /></a><a href="/picks/" onmouseover="img_act('menu1')" onmouseout="img_inact('menu1')"><img src="/media/menu/picks_f.gif" alt="picks" name="menu1" border="0" vspace="4" hspace="1" width="34" height="11" /></a><a href="/index.php?pn=interview" onmouseover="img_act('menu2')" onmouseout="img_inact('menu2')"><img src="/media/menu/interview_f.gif" alt="interview" name="menu2" border="0" vspace="4" hspace="1" width="59" height="11" /></a><a href="/diary/" onmouseover="img_act('menu3')" onmouseout="img_inact('menu3')"><img src="/media/menu/diary_f.gif" alt="diary" name="menu3" border="0" vspace="4" hspace="1" width="36" height="11" /></a><a href="/inprint/" onmouseover="img_act('menu4')" onmouseout="img_inact('menu4')"><img src="/media/menu/inprint_t.gif" alt="inprint" name="menu4" border="0" vspace="4" hspace="1" width="47" height="11" /></a><a href="/museums/" onmouseover="img_act('menu5')" onmouseout="img_inact('menu5')"><img src="/media/menu/museums_f.gif" alt="museums" name="menu5" border="0" vspace="4" hspace="1" width="56" height="11" /></a><a href="/links/" onmouseover="img_act('menu6')" onmouseout="img_inact('menu6')"><img src="/media/menu/links_f.gif" alt="links" name="menu6" border="0" vspace="4" hspace="1" width="33" height="11" /></a><a href="/talkback/" onmouseover="img_act('menu7')" onmouseout="img_inact('menu7')"><img src="/media/menu/talkback_f.gif" alt="talkback" name="menu7" border="0" vspace="4" hspace="1" width="58" height="11" /></a><a href="http://www.bookforum.com/" target="_blank" onmouseover="img_act('menu8')" onmouseout="img_inact('menu8')"><img src="/media/menu/bookforum_f.gif" alt="bookforum" name="menu8" border="0" vspace="4" hspace="1" width="67" height="11" /></a><a href="/subscribe/" onmouseover="img_act('menu9')" onmouseout="img_inact('menu9')"><img src="/media/menu/subscribe_f.gif" alt="subscribe" name="menu9" border="0" vspace="4" hspace="1" width="58" height="11" /></a></td></tr>
+<form action="/search/" method="post">
+<tr height="25">
+  <td valign="middle" align="left" class="login"></td>
+  <td valign="bottom" align="right"><a href="/html/advertise"><img src="/media/menu/advertise_f.gif" alt="advertise" border="0" width="52" height="11" /></a><a href="/html/bookstore"><img src="/media/menu/bookstore_f.gif" alt="bookstore" border="0" width="57" height="11" /></a><a href="/html/back_issues"><img src="/media/menu/back_issues_f.gif" alt="back issues" border="0" width="64" height="11" /></a><a href="/html/contact_us"><img src="/media/menu/contact_us_f.gif" alt="contact us" border="0" width="58" height="11" /></a><a href="/register/"><img src="/media/menu/register_f.gif" alt="register" border="0" width="42" height="11" /></a>&nbsp;&nbsp;<input name="search" type="text" size="8"><input type="image" src="/media/menu/search.gif" width="33" height="12" border="0" alt="search"></td></tr>
+</form>
+</table>
+</td>
+  <td bgcolor="#ebebeb" width="3"><img src="/media/gen_gifs/spacer.gif" width="1" height="1" alt="" hspace="1"></td>
+  <td>  <a href="javascript:ads_open_topright()"><img name="ad_topright" src="/media/gen_gifs/spacer.gif" width="110" height="110" alt="" border="0" hspace="12" vspace="12"></a>
+</td>
+</tr>
+<tr>
+  <td colspan="4" bgcolor="#ebebeb"><img src="/media/gen_gifs/spacer.gif" width="1" height="1" alt="" vspace="1"></td>
+</tr>
+<tr>
+  <td width="27"></td>
+  <td valign="top" align="left" width="612">
+    <table border="0" width="612" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="102" valign="top" height="90">
+        <img src="/media/dots/dot_register.gif" vspace="8" alt="" width="72" height="72" /><br />      </td>
+      <td width="20" height="90">&nbsp;</td>
+      <td width="490" valign="top"><img src="/media/gen_gifs/spacer.gif" width="1" height="1" alt="" title="" vspace="17"><br />  <table border="0" cellspacing="1" cellpadding="2" width="400">
+  <form name="login_form" action="/inprint/id=1672" method="post">
+    <input type="hidden" name="_set_cookie" value="0">
+  <tr><td colspan="2"><p class="message">
+	For this section, you need to sign-in with your username and password.                    
+        </p>
+      </td>
+  </tr>
+  <tr><td colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td valign="top">
+      Username    </td>
+    <td valign="top">
+      <input name="_login_field" value="">    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      Password    </td>
+    <td valign="top">
+      <input type="password" name="_pwd">    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      &nbsp;    </td>
+    <td valign="top">
+      <input type=checkbox name="_set_cookie" value="1" checked> Remember my username so I don't need to sign-in the next time I visit    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      &nbsp;    </td>
+    <td valign="top">
+      <input type="submit" value="Sign-in">    </td>
+  </tr>
+  </form>
+  <script language="JavaScript"><!--
+    document.login_form.elements['_login_field'].focus();
+ //--></script>
+ </table>
+ <p>If you don't have a username for artforum.com yet, please <a href="/register/">REGISTER</a>.<br />
+ It's completely free and allows you to take part in the TALK BACK discussions.</p>
+ <p>In case you have forgotten your user name or password, you can <a href="/index.php?pn=password_recover">recover it here</a>.</p>
+</td>
+    </tr>
+    </table>
+  </td>
+  <td bgcolor="#ebebeb" width="3"><img src="/media/gen_gifs/spacer.gif" width="1" height="1" alt="" hspace="1"></td>
+  <td valign="top"><img src="/media/gen_gifs/spacer.gif" width="1" height="2" alt="" vspace="2"><br />
+      <img src="/media/gen_gifs/spacer.gif" width="1" height="1" vspace="3" alt="" /><br />
+  <a href="#" onclick="javascript:window.open('/galleries.php', 'galleries', 'width=320,height=480,resizable=yes,scrollbars')"><img src="/media/buttons/links.gif" width="63" height="11" border="0" alt="click for links" hspace="20" vspace="2" /></a><br />
+  <a href="javascript:ads_open(0)"><img name="ad0" src="/media/gen_gifs/spacer.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br />
+  <a href="javascript:ads_open(1)"><img name="ad1" src="/media/gen_gifs/spacer.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br />
+  <a href="javascript:ads_open(2)"><img name="ad2" src="/media/gen_gifs/spacer.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br />
+  <a href="javascript:ads_open(3)"><img name="ad3" src="/media/gen_gifs/spacer.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br />
+  <a href="javascript:ads_open(4)"><img name="ad4" src="/media/gen_gifs/spacer.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br />
+  <a href="javascript:ads_open(5)"><img name="ad5" src="/media/gen_gifs/spacer.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br />
+  <a href="javascript:ads_open(6)"><img name="ad6" src="/media/gen_gifs/spacer.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br />
+  <a href="javascript:ads_open(7)"><img name="ad7" src="/media/gen_gifs/spacer.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br />
+</td>
+</tr>
+<tr>
+  <td colspan="4" align="center"><img src="/media/gen_gifs/spacer.gif" width="1" height="1" vspace="6" alt="" border="0" /><br /><a href="/html/advertise">advertise</a> &nbsp; <a href="/html/bookstore">bookstore</a> &nbsp; <a href="/html/back_issues">back issues</a> &nbsp; <a href="/html/contact_us">contact us</a> &nbsp; <a href="/register/">register</a><p><a href="/./">home</a> &nbsp; <a href="/news/">news</a> &nbsp; <a href="/picks/">picks</a> &nbsp; <a href="/index.php?pn=interview">interview</a> &nbsp; <a href="/diary/">diary</a> &nbsp; <a href="/inprint/">in print</a> &nbsp; <a href="/museums/">museums</a> &nbsp; <a href="/links/">links</a> &nbsp; <a href="/talkback/">talkback</a> &nbsp; <a href="http://www.bookforum.com/" target="_blank">bookforum</a> &nbsp; <a href="/subscribe/">subscribe</a></p><p><a href="http://www.thing.net" target="_blank"><img src="/uploads/ads/ads40.gif" width="90" height="36" alt="" border="0" hspace="3" vspace="6"></a><a href="http://www.bookforum.net/" target="_blank"><img src="/uploads/ads/ads24.gif" width="90" height="36" alt="" border="0" hspace="3" vspace="6"></a><a href="http://www.sohogrand.com/" target="_blank"><img src="/uploads/ads/ads25.gif" width="90" height="36" alt="" border="0" hspace="3" vspace="6"></a></p>  <p class="rootCopyright">All rights reserved. artforum.com is a registered trademark of Artforum International Magazine, New York, NY</p>
+</td>
+</tr>
+</table>
+</body>
+</html>

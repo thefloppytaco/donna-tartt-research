@@ -1,0 +1,101 @@
+OCR transcript — TARTT-CONTRIB-SiesMarjan-Rizzoli-2022_p57-reflection-credits-colophon.pdf
+Source: 3-page CamScanner scan of selected pages from Sander Lak, *The Colors of Sies Marjan* (Rizzoli, 2022), ISBN 978-0-8478-7220-6.
+Pages scanned: p. 57 (Donna Tartt reflection), image-credits spread, copyright/colophon page.
+OCR engine: tesseract (default eng). Light hand-cleanup; obvious OCR errors corrected against context. Bracketed [sic] notes mark scanner artefacts.
+
+==============================================================
+PAGE 57 — DONNA TARTT REFLECTION (verbatim)
+==============================================================
+
+"Sander of course is a master of color — everyone talks about that —
+but he's a master of fabric and of drape as well. His clothes hit a rare mark:
+intuitive but formal, easy but precise, the silky comforting garment
+one locates in the closet as much by the pleasure of touch as by sight.
+His work, with its flowing ease, reminds me of some of the great Hollywood
+designers of the 1930s. Translate those delicious pastel silks to
+black or white and they're still just as delicious."
+
+                                                           Donna Tartt
+
+                                                                    57
+
+==============================================================
+IMAGE CREDITS PAGE — Tartt-relevant entries (verbatim)
+==============================================================
+
+57  Donna Tartt wearing Fall 2019 at the Sies Marjan Atelier, 151 W. 26 St., NYC, 2018.
+    Photography by Theo Wenner.
+
+(Contextual neighbour credits — adjacent designers/contributors cited on the same spread
+include Elizabeth Peyton (p. 6 portrait of Sander Lak), Marc Jacobs, Rem Koolhaas,
+Hanya Yanagihara, Isabella Rossellini — confirmed elsewhere in the volume.)
+
+==============================================================
+COPYRIGHT / COLOPHON PAGE (verbatim, lightly cleaned)
+==============================================================
+
+First published in the United States of America in 2022 by
+Rizzoli International Publications, Inc.
+300 Park Avenue South
+New York, NY 10010
+www.rizzoliusa.com
+
+The Colors of Sies Marjan
+Copyright © 2022 Sander Lak
+
+Creative Direction: Sander Lak
+Art Direction: 2x4 / Michael Rock with Giacomo Moroso
+Designer: Language Arts / Claudia Brandenburg
+Project Manager: Nirva Derbekyan
+Editorial Consultant: Dan Thawley
+Copy Editor: Isaac Raine
+
+www.sanderlak.com
+
+For Rizzoli:
+Publisher: Charles Miers
+Editor: Ian Luna
+Project Editor: Meaghan McGovern
+Production Manager: Barbara Sadick
+Production Coordinator: Olivia Russin
+Image Coordination: Alec Castillo
+Copy Editor: Angela Taormina
+Proofreader: Mimi Hannon
+
+All rights reserved. No part of this publication may be
+reproduced, stored in a retrieval system, or transmitted
+in any form or by any means, electronic, mechanical,
+photocopying, recording, or otherwise, without prior
+consent of the publishers.
+
+Every effort has been made to gain permission from
+copyright holders and/or photographers, where known,
+for the images reproduced in the book, and care has
+been taken to caption and credit those images correctly.
+Any omissions are unintentional and appropriate credit
+will be included in future editions if further information
+is brought in writing to the publisher's attention.
+
+Printed in Hong Kong
+2022 2023 2024 2025 / 10 9 8 7 6 5 4 3 2 1
+
+ISBN: 978-0-8478-7220-6
+Library of Congress Control Number: 2022937355
+
+==============================================================
+DERIVED FACTS (for §7.15 in Donna_Tartt_Collectors_Reference.md)
+==============================================================
+
+- Tartt's contribution is a REFLECTION (short prose blurb), NOT an interview.
+- Length: 8 lines of verse-broken prose, ~80 words, single paragraph.
+- Page: 57 (recto), set as a standalone full-page text spread facing image content.
+- Theme: appreciation of Lak's mastery of color, fabric, drape; comparison to 1930s Hollywood designers.
+- Paired with a Theo Wenner photograph of Donna Tartt herself wearing Fall 2019, taken at the
+  Sies Marjan Atelier (151 W. 26 St., NYC) in 2018. The portrait is credited on the image-
+  credits spread to the same page (p. 57); whether the portrait appears facing the text on
+  p. 56 or elsewhere in the book requires further copy-in-hand confirmation.
+- Confirms the format question raised in §7.15 (was "interview vs. reflection — unconfirmed";
+  now definitively "reflection / short prose contribution").
+- The image-credits spread numbering jumps from p. 45 directly to p. 50, indicating one or
+  more unnumbered colour-image spreads sit between (consistent with a Rizzoli photo-book
+  layout that interleaves full-bleed unnumbered plates).

@@ -1,0 +1,66 @@
+# Donna Tartt — chapter in *Legendary Authors and the Clothes They Wore*
+
+**Source:** Terry Newman, *Legendary Authors and the Clothes They Wore* (New York: Harper Design / HarperCollins, June 27, 2017). **Hardcover ISBN** 978-0-06-242830-1. **Chapter 31** of ~55 author profiles (between Hemingway and Colette). **Estimated pp. ~125–129** (precise pp. need physical copy).
+**Length:** ~940 words.
+**Photographs in the chapter:**
+- Susanna Howe (Trunk Archive) — "Donna Tartt, 2014."
+- Timothy Greenfield-Sanders — "Donna Tartt, circa 2000."
+**Note:** This is NOT a Tartt-authored chapter; Newman is the author. The chapter is included in the Tartt bibliography because it quotes Tartt extensively (4 first-person quotations) and provides curated biographical/style content.
+**Source EPUB:** `assets/sources/archive/LegendaryAuthorsClothes-Newman-HarperDesign-2017-9780062428301-AnnasArchive.epub`, OEBPS/text00036.html
+**Extracted:** 2026-05-14
+
+---
+
+DONNA TARTT
+Very nice clothes are not incompatible with the writer’s profession in a way that they are for a painter or a dancer.
+—Donna Tartt, “This Much I Know,” 
+The Guardian
+ , 2003
+I
+ n autumn 1992, a book called 
+The Secret History
+ was published by a fresh new writer. It arrived in a world where grunge fashion was about to go mainstream, but before Marc Jacobs launched the edgy spring 1993 collection that cost him his job at Perry Ellis. Heroin chic made the headlines. The world was tiring of supermodel Linda Evangelista and her $10,000-to-get-out-of-bed supermodel friends. Instead, the outsider was interesting, and what would become the fringe culture of the twenty-first century was falling into place.
+Donna Tartt is an author whose strength lies in being outside the mainstream, yet she has still managed to have a massive audience. With that first novel, she tapped a cultural nerve and became a literary touchstone. Fast forward to today and she has published three amazing novels—all curious, strange, and formidable volumes. 
+The Little Friend
+ , published in 2002, tells the story of the death of a young girl’s brother, and, as Tartt explained in an article in 
+The Guardian
+ , is a “scary book about children coming into contact with the world of adults in a very frightening way.” 
+The Goldfinch
+ , from 2013, follows a boy’s life after his mother dies in the bombing of an art gallery. Bereavement, loss, and unexpected turns of existence are all examined in this opus that takes the reader on a journey determined in part by Tartt’s favorite Carel Fabritius painting, for which the book is named. Her writing takes time—her novels are long—and the publication of her work has become an unusual treat.
+Trunk Archive:
+ Howe, Susanna
+Donna Tartt, 2014.
+ Tartt’s life has a magical narrative, too, and like most gorgeous fictional characters, her looks and fashion sense are intriguing. She resembles the actress Louise Brooks, the 1930s silver-screen flapper, and she has become known for her signature bobbed hair, à la Agatha Runcible, the giddy party girl in Evelyn Waugh’s interwar novel, 
+Vile Bodies
+ . Although most recently Tartt has been seen sporting a slicked-back ponytail, there is still something unconventional and curious about her—the quirkiness is romantic, and her boyish styling popular. An androgynous, crisp white shirt, tailored jacket, and men’s tie are staples she is comfortable with. In a 2002 interview with 
+The Telegraph
+ , she revealed, “I feel a real funniness about women’s costume. To really put on high heels and a frilly dress, do you know what I’m saying? It seems kind of . . . comical.” She likes to wear suits.
+Bunny had an uncanny ability to ferret out topics of conversation that made his listener uneasy and to dwell upon them with ferocity once he had. In all the months I’d known him he’d never ceased to tease me, for instance, about that jacket I’d worn to lunch with him that first day, and about what he saw as my flimsy and tastelessly Californian style of dress. . . . Whenever Bunny, rudely and in public, accused me of wearing a shirt which contained a polyester blend, or remarked critically that my perfectly ordinary trousers, indistinguishable from his own, bore the taint of something he called a “Western cut,” a large portion of the pleasure this sport afforded him was derived from his unerring and bloodhoundish sense that this, of all topics, was the one which made me most truly uncomfortable.
+—Donna Tartt, 
+The Secret History
+ , 1992
+ I’d love to meet Oscar Wilde, because they all say he was so much more wonderful in person than on the page. From reading the journals of Tennessee Williams, I’m almost positive that if Tennessee and I had ever met, we would have been friends. And if it was a dinner date? Albert Camus. That trench coat! That cigarette! I think my French is good enough. We’d have a great time.
+—Donna Tartt, “Donna Tartt: By the Book,” from the 
+New York Times Book Review
+ , 2013
+Greenfield-Sanders, Timothy
+Donna Tartt, circa 2000.
+ I get very attached to coats because a coat is a comfort, you can curl up with it. I bought a beautiful cashmere coat about ten years ago and I love it. It’s really like my security blanket.
+—Donna Tartt, “This Much I Know,” 2003
+Tartt revealed in 
+Vanity Fair
+ in September 1992 that while she was a student at Miss Doty’s Kindergarten for Girls, she decided she “should like to be an ar-chae-ologist.” However, she opted to focus on writing as a freshman at the University of Mississippi after catching the eye of author Willie Morris, who told her she was a genius and went on to become her mentor. He advised her to transfer to Bennington College in Vermont, which she did, her sophomore year. It was there that she began to write her debut novel, 
+The Secret History
+ , although it ended up taking almost ten years to complete. 
+The Little Friend
+ and 
+The Goldfinch
+ followed at a slow pace, ten and twenty years later, respectively; all three books have been on bestseller lists. Today, Donna Tartt is one of the most successful contemporary writers. In 
+The Secret History
+ , clothes are wrapped up in class and can alienate. Tartt lucidly shares her finely tuned understanding of the power of clothes and the way they protect and reveal.
+Tartt is a fan of the pop groups Pulp and The White Stripes.
+Tartt’s favorite childhood reads included 
+Peter Pan
+ and 
+Treasure Island
+ .

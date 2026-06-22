@@ -1,0 +1,118 @@
+# Donna Tartt — "On Barrie and Stevenson"
+
+**Source:** *Fairy Tale Review*, Vol. 1 ("The Blue Issue"), March 2005, pp. 66–71 (6 pages)
+**Title (running head / piece):** "On Barrie and Stevenson"
+**Title (annotated TOC):** "From Barrie to Stevenson"
+**Editor:** Kate Bernheimer
+**Publisher (original):** Fairy Tale Review Press, Tuscaloosa, AL (© 2005)
+**Publisher (electronic reissue):** Wayne State University Press, Detroit, 2015 (ISBN 978-0-8143-4170-4)
+**Length:** ~1,600 words; 5 numbered footnotes
+**Source EPUB:** `assets/sources/archive/FairyTaleReview-Vol1-BlueIssue-2005-9780814341704-AnnasArchive.epub`, OEBPS/xhtml/19_From_Barrie_to_Stevenson.html
+**Extracted:** 2026-05-14
+
+---
+
+My great grandmother was born in Mississippi, in 1890, and lived in Mississippi for the whole of her long life. But her own grandparents, who died long before I was born, were Scottish, and vestiges of this Scottishness still survived in her nursery talk. In the same way her husband, my great-grandfather—generations removed from his French ancestors—instinctively corrected naughty dogs and children as his old French aunties had done, with a sharp and very Gallic 
+non!
+ a particular lilt crept into my great-grandmother’s voice when she sang and when she read to me aloud. It was dreamy and gorgeous to my ear, this special voice of hers, the very stuff of warmth and love; it was, I believed, peculiar to her alone of all the world, a voice which, like a cat’s purr, was specific to hearth and home, reserved for her dearest ones. Not until I was older—and, rather to my shock, heard the private lullaby voice being spoken in public by a perfect stranger on a television program—did I realize that the beloved musicality which for many years I’d confidently believed was mine alone was in fact a Scots accent.
+I spent a good deal of time with my great-grandmother when I was very small, as had my mother before me. She adored children, and at that time I was the only child in the family, and the fortunate recipient of her undivided attention. Our relationship still stands as one of the great love affairs of my life. I could not bear to be out of her sight, and wept when she left the room; when we said goodbye to each other on the street, before I turned the corner (we lived only a few houses apart) we would call and wave to each other as frantically as if we were being parted by the Atlantic Ocean. Like lovers, we constantly contrived in secret for excuses to spend time together, and (like Paolo and Francesca) our most constant excuse was books. I marvel now at the way she used to read to me—eight hours at a stretch sometimes, whole books in a day, her voice growing hoarse as the shadows lengthened and the room darkened and I sat 
+alongside her in her bedroom listening to her every syllable with desperate attention, dreading the ring of the telephone in the next room (which of course would be my mother, to summon me home to dinner). We read everything—good books, bad books, strange old-fashioned books from her own childhood, many of them long out of print, 
+(Billy Whiskers, Little Prudy, Peck’s Bad Boy)
+ as well as more modern books which my great Aunt Frances—head librarian at the town library—ordered in hardcover for me from the publishing companies. (I remember particularly my great-grandmother’s delight in 
+Chitty-Chitty Bang-Bang
+, which was as new to her as it was to me, and in 
+True Grit
+ by Charles Portis).
+But a few books we loved especially, and read doggedly again and again, almost as if they were religious texts, and chief among these was 
+Peter Pan
+. Did I love it so because of the mysterious Scottishness that colored her voice as she read? Because she herself was of Wendy Darling’s generation, and because the book made tangible and comprehensible to me somehow her own lost girlhood? Or because we ourselves—so passionately close—had crosssed paths in time so very strangely: she like Wendy at the end of the book, bent in the back and with white in her hair, and me still a child? (In my edition of 
+Peter Pan
+, there is a line drawing of Peter standing in the firelit nursery regarding Wendy, who is no longer a child like himself, but an old lady: it might almost be my great-grandmother and me, drawn from the life). I suppose in the end 
+Peter Pan
+ was such an important book to us both because it is ultimately such a dark book, about change, loss, aging, mortality, death: the very questions that hung so heavy between us. She was in her eighties; our days together were short and we knew it, which was why our every goodbye on the corner of Levee Street held within it the vertiginous terror of permanent separation. And when she did actually die I refused—fierce sunburnt little pagan that I was—to direct any prayers Heavenward on her behalf: instead, at her funeral, I silently beseeched Peter, small fitful god of our household religion, to go with her part of the way so that she would not be frightened. It seemed to me peculiar even then, as a child, to be standing with bowed head at my great-grandmother’s funeral praying to a character in a book, and it was not until later that I realized that there was a certain instinctual correctness in this, because Peter isn’t quite a literary character in the conventional 
+sense, but is much much older, indeed a god in his own right. (It’s significant that Hook—who fears and hates Peter—calls him by his true name: Pan).
+.   .   .
+Peter Pan
+ is that rarest of artistic triumphs: the creation alight with such uncanny power that it commands a life of its own. And Robert Louis Stevenson—the author who is most often twinned with Barrie in my mind—is Barrie’s equal as a spellbinder; he is one of the greatest writers of the supernatural in the English language, and, like Barrie, his work too ventures beyond language into the archetypal. (It’s hard to think of a modern myth that has been told and re-told more often than 
+Dr. Jekyll and Mr. Hyde
+; one of its more current manifestations in popular culture at the moment is Ang Lee’s film of 
+The Incredible Hulk
+; and 
+Treasure Island
+ has recently been re-cast yet again, by Disney, as an intergalactic space adventure entitled 
+Treasure Planet
+). But where Barrie’s work is uncompromising—about changelessness and divinity—Stevenson’s is all about transformation. He is the canniest and most worldly of writers: a shape-shifter who (rather like his character, the alarmingly adaptible sea-cook John Silver) is a man of many sides, changing his face according to his company and his port of call. If Barrie whispered in my ear the secret that would change my life 
+(you can fly)
+ it was wise, friendly Stevenson who took my hand and taught me how to walk: leading me in my travels from babyhood to childhood to adolescence and at last out into the wide world, and to what would be my life’s work.
+I think I must have known him earlier than any other writer apart from Mother Goose. Some of the poems from 
+A Child’s Garden of Verses
+ my great-grandmother knew by heart, and, when I was very little, I didn’t know they were by a person called Robert Louis Stevenson—they seemed to be wholly her own, marvelously and appropriately spoken off the top of her head. She lived near an old church, built in the early 1800s, with a sonorous and ancient-sounding bell, and the toll of this bell echoes melancholy throughout my early childhood and mingles inextricably with the wind in the dry pecan trees in the autumn, with passionate, almost trance-like fits 
+of
+ make-believe (running wild from room to room, a sheet over my head) and with my own fevers and night-terrors (for I, like Stevenson himself, was a highly strung child, ‘an ardent and uncomfortable dreamer’)
+1
+I have a little shadow that goes in and out with me
+And what can be the use of him is more than I can see . . .
+To read now any of those verses is to hear my great-grandmother’s calm, amused, voice and to fall back again into that visionary world of bright and dark: part picture-books and paint-boxes and garden hollyhocks, part imaginary wars under the staircase, part bronchitis and cemetary shivers. More than any other author I can think of, Stevenson reminds us how children actually 
+see
+ things: not in some sentimentalized, Babes-in-Toyland haze, but in obsessive anthropomorphisms and fixations the particular sharp flavor of which have been long-forgotten by most adults. (I love it when he writes, helpfully, apropos of the illustrations for the 
+Verses
+: “When the artist finds nothing much to illustrate, a good drawing of any 
+object
+ mentioned in the text, were it only a loaf of bread or a candlestick, is a most delightful thing to a young child. I remember this keenly).
+2
+When I was about eight or nine years old, I fell hopelessly under the spell of 
+Treasure Island
+. Later on, I was even more captivated by 
+Kidnapped
+, but it was 
+Treasure Island
+ which hooked me first, and in some sense, I never recovered from it. I seem to recall that my great-grandmother thought I wasn’t quite old enough for it; certainly I remember that she read it to me a bit hesistantly, in a slightly subdued tone that didn’t quite match the hoarse, boyish, exilarated voice of the book. Certainly it marked a significant departure from the books that we usually read together; for—unlike Winnie the Pooh, unlike the Oz books, unlike everything else up to that point—it was tough and unpredictable and frightening, with ugly characters and violent situations. I still remember how shocked I was when Pew suddenly 
+wrenches Jim’s arm and threatens to break it,
+3
+ and, later, when he shrieks out on the road that he wishes he’d put Jim’s eyes out.
+4
+ And how still I sat, how deadly afraid I was for Jim and Dr. Livesey and all the rest of them to realize that the loveable, lame cook on the ‘Hispaniola’ (“a face as big as a ham—plain and pale, but intelligent and smiling”)
+5
+ was not at all the kindly soul he seemed to be but a complicated, cold-blooded murderer. Weren’t pleasant, agreeable people always good? Apparently not; as it became horribly clear that plain, cheerful John Silver would cheerfully slit Jim’s throat if it suited him.
+As a child, I circumnavigated 
+Treasure Island
+ with terror and delight, not yet understanding, as I eventually came to do, that the tiny green island floating so beguilingly on the sea is actually the tip of a submerged mountain: below the surface fascinations (which are considerable) lie gorgeous depths. Stevenson is a great stylist; his prose is pure magic, full of color and music, and the language of the pirates is uncommonly strong and intoxicating stuff (I recall the touchy Presbyterian mother of one of my friends rushing outside very nearly hysterical to hear me bellowing 
+yo ho ho and a bottle of rum
+ in her back yard). But if adults love him because he makes them feel young again, I loved him so much as a child because he made me feel grownup. He offers glimpses into a world that is usually quarantined and kept hidden from children: for all their light-heartedness, even the poems in 
+A Child’s Garden of Verses
+ are complex and mysterious beyond the simple emotions of childhood. The boy in Heriot Row—waiting for Leerie the Lamplighter to pass by in the Edinburgh darkness—preshadows the invalid in the darkened bedroom in Hyéres. (And, for that matter, the general 
+mise en scene
+—solitary figure, moving down gloomy Victorian streets at twilight—prefigures the nightmare streets of 
+Dr. Jekyll and Mr. Hyde
+.)
+But 
+Treasure Island
+ and 
+Kidnapped
+ were the real bridge for me between the child’s world and the adult’s. Essentially, they were the books that turned me into a novelist, and they did partly through the beauty of the language and partly through the sheer gallop of 
+story but mostly because they made me preoccupied with the kinds of questions that novelists ask. Why do smart people make foolish decisions? Why are honest people so vulnerable to lies, and trusting one ones so susceptible to flattery and manipulation? If all people are fallible—a mixture of good and bad—at what point does the equation tip and a good person become bad and vice versa? Why is Mr. Shuan brutal when he’s drunk and kind when he’s sober, and Mr Hoseason brutal when he’s sober and kind when he’s drunk? And why does Alan Breck—brave and generous as he is—behave so childishly sometimes?
+The word romance has been used to describe (and to dismiss) Stevenson’s work for the last hundred years. But I’ve always wondered more critics don’t see that 
+Treasure Island
+, despite its fanciful stage trappings (spyglasses, cutlasses, pieces of eight) is despite its many enchantments a work of frightful psychological realism. Like Barrie, he is a magician, with an uncommon power to charm; but where 
+Peter Pan
+ throws off a glimpse of something bright and unyielding and incorruptible that borders on the divine, Stevenson maintains the same enchantment and yet remains wholly human. And it’s why I’ve read his books obsessively over and over and over again throughout my life, so much that they’ve now become a part of my own character—and certainly a part of my own work as a writer. The whole time I was writing my second novel, 
+The Little Friend
+, I had a picture of Stevenson on the wall by my desk. It’s a story he would have liked, I think: a clever, bookish child pitted against a gang of criminals. And it’s probably not a story it would have occurred to me to tell, if not for him.
+I wonder if my great-grandmother knew that during all those afternoons she sat reading to me, that she was making me into a writer? I doubt very much that she did. Certainly she’d be pleased to know that I’d become one; but I think she’d be even more pleased to know that I’m visiting Edinbrough in a few weeks. She never saw Scotland herself—but even so, when I was just tiny, she made sure to press Alan Breck’s silver button tight into my hand, and fold my fingers around it. And I am holding onto it still.
+Notes
+1
+ Hennessy, James Pope. 
+Robert Louis Stevenson
+ (New York: Simon and Schuster, 1974), p. 19.
+2
+ Editor, Sidney Colvin, 
+The Letters of Robert Louis Stevenson
+, Vol. 1 (London: Methuen and Company, 1900) page 258
+3
+ Stevenson, Robert Louis. 
+Treasure Island
+, (London: Puffin Books, 1994), p. 27
+4
+ Stevenson, ibid. p. 40.
+5
+ Stevenson, ibid. p. 66.

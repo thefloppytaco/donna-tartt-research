@@ -1,0 +1,36 @@
+[← Back to the Catalogue](../CATALOGUE.md)
+
+# Folio Society - We Have Always Lived in the Castle (Shirley Jackson) - Tartt afterword pp 177-185 (signed limited 500 numbered + 20 lettered HC copies)
+
+<sub>Introductions & Contributions · item `CON-011a`</sub>
+
+<img src="../assets/images/TARTT-INTRO-FOLIO-Jackson-2023-LIMITED_LCLT_1_base.jpg" alt="Folio Society - We Have Always Lived in the Castle (Shirley Jackson) - Tartt afterword pp 177-185 (signed limited 500 numbered + 20 lettered HC copies)" width="280">
+
+### Reference details
+| Field | Value |
+|---|---|
+| Work | Introductions & Contributions |
+| Section | §7.14 |
+| Edition | Folio Society - We Have Always Lived in the Castle (Shirley Jackson) - Tartt afterword pp 177-185 (signed limited 500 numbered + 20 lettered HC copies) |
+| Country | UK |
+| Language | EN |
+| Publisher | The Folio Society |
+| Year | 2023 |
+| Status | have |
+
+📖 **Full reference entry:** [§7.14 in the Collector's Reference](../Donna_Tartt_Collectors_Reference.md#714-afterword-by-donna-tartt--we-have-always-lived-in-the-castle-by-shirley-jackson-the-folio-society-2023)
+
+🔗 **Read the original:** [foliosociety.com](https://www.foliosociety.com/usa/we-have-always-lived-in-the-castle) · [foliosociety.com](https://www.foliosociety.com/usa/we-have-always-lived-in-the-castle-limited-edition) · [entertainment-focus.com](https://entertainment-focus.com/2023/08/10/shirley-jackson-we-have-always-lived-in-the-castle-the-folio-society-edition-review/)
+
+### Full text
+
+_No full text is held for this item. See the reference entry above and the cited source._
+
+### Sources & documents held
+
+- [Tartt Afterword FolioSociety WHALITC 2023 Scribd](../assets/sources/archive/Tartt-Afterword-FolioSociety-WHALITC-2023-Scribd.pdf) (PDF)
+
+<sub>Primary-source captures cited for this section of the reference. PDFs and images open in GitHub's viewer; `.webarchive` files download.</sub>
+
+---
+[← Back to the Catalogue](../CATALOGUE.md)

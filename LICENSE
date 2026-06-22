@@ -1,0 +1,32 @@
+USAGE & RIGHTS NOTICE
+=====================
+
+This repository is a personal, non-commercial research database about the novelist
+Donna Tartt. It mixes two very different kinds of material, with different terms.
+
+1. ORIGINAL RESEARCH & COMPILATION (mine)
+-----------------------------------------
+The original text, analysis, organization, manifests, indexes, transcriptions, and
+documentation authored for this project — e.g. `Donna_Tartt_Collectors_Reference.md`,
+`About_Donna_Tartt_Items.md`, `README.md`, `AGENTS.md`, `ARCHITECTURE.md`, the files in
+`reports/`, `reference/`, `data/`, `wikipedia/`, `scripts/`, and the interview
+transcriptions and book excerpts — are released under:
+
+    Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+    https://creativecommons.org/licenses/by-nc/4.0/
+
+You may share and adapt this original work for non-commercial purposes with attribution.
+
+2. THIRD-PARTY SOURCE MATERIAL (not mine)
+-----------------------------------------
+Much of `assets/` consists of third-party material captured as research evidence:
+cover images, scanned pages and full books, magazine and newspaper articles, dealer and
+auction listings, and saved web pages. Copyright in those works remains with their
+respective owners. They are reproduced here in good faith, in limited form, for
+non-commercial study, commentary, and reference only. No claim of ownership is made over
+any third-party work, and inclusion here does not grant you any rights to it.
+
+If you own rights to something in this repository and would like it removed or corrected,
+please open an issue or contact the repository owner, and it will be taken down promptly.
+
+This notice is provided in plain language and is not legal advice.
