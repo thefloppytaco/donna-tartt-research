@@ -18,6 +18,14 @@ that backs it.
 
 </div>
 
+> [!NOTE]
+> **Prefer to browse?** This database is also published as a website —
+> **[thefloppytaco.github.io/donna-tartt-research](https://thefloppytaco.github.io/donna-tartt-research/)** —
+> with the editions, signed copies, essays, contributions and interviews as browsable, searchable
+> sections, every entry linking back to the primary source that backs it. It is generated from the
+> files in this repository by [`scripts/build_site.py`](scripts/build_site.py) into
+> [`docs/`](docs/); the Markdown here stays the source of record.
+
 > [!TIP]
 > **Want to ask an AI about Donna Tartt instead of reading?** Point it at **[`AGENTS.md`](AGENTS.md)** —
 > it tells any AI assistant how to search this database and answer questions *with citations*
@@ -52,6 +60,7 @@ transcript — stored under [`assets/`](assets/) so the research survives link r
 | **See items *about* Tartt** | [`About_Donna_Tartt_Items.md`](About_Donna_Tartt_Items.md) |
 | **Check how claims were verified** | [`reports/Verification_Report.md`](reports/Verification_Report.md) |
 | **Understand the folder layout** | [`ARCHITECTURE.md`](ARCHITECTURE.md) |
+| **Browse all of it as a website** | [thefloppytaco.github.io/donna-tartt-research](https://thefloppytaco.github.io/donna-tartt-research/) |
 
 ---
 
@@ -101,7 +110,8 @@ donna-tartt-research/
 ├── reference/   interview transcripts (×15) + interview index
 ├── reports/     Verification_Report.md — fact-check audit & corrections
 ├── data/        cover_manifest.csv — edition → cover → status
-├── scripts/     ISBN validator + Wayback recovery
+├── scripts/     ISBN validator + Wayback recovery + the website generator
+├── docs/        the generated website (GitHub Pages)
 └── assets/      ★ THE EVIDENCE
     ├── images/         cover & ephemera images (+ magazines/, about/)
     └── sources/

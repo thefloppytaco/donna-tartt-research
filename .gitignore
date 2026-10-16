@@ -10,3 +10,7 @@
 .idea/
 .vscode/
 Thumbs.db
+
+# Python bytecode (the site generator)
+__pycache__/
+*.py[cod]

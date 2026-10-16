@@ -35,7 +35,8 @@ donna-tartt-research/
 ├── reference/   ← interview transcripts + interview index
 ├── reports/     ← verification & corrections
 ├── data/        ← cover manifest (CSV)
-├── scripts/     ← ISBN validator + Wayback recovery scripts
+├── scripts/     ← ISBN validator, Wayback recovery, website generator
+├── docs/        ← generated static website (served by GitHub Pages)
 └── assets/      ← cover images + primary-source captures (the evidence)
 ```
 
@@ -81,6 +82,32 @@ The two master reference documents stay at the repository **root** because their
 - **`scripts/isbn_check.py`** — Validates ISBN-10 and ISBN-13 check digits (single + `--batch`).
 - **`scripts/wayback_hunt.sh` / `wayback_hunt_retry.sh`** — Wayback-Machine CDX recovery sweeps that
   populate `assets/sources/archive/wayback/`.
+- **`scripts/build_catalogue.py`** — Generates `CATALOGUE.md` from the manifest and the reference.
+- **`scripts/build_site.py`** + **`scripts/sitelib/`** — Generates the website in `docs/`
+  (see below). `sitelib/` holds the corpus loader, a small Markdown renderer tuned to this repo's
+  dialect, the image-derivative pipeline and the stylesheet.
+
+## `docs/` — the generated website
+
+The GitHub Pages site, built by `python3 scripts/build_site.py` (requires only Pillow). **It is
+output, not source**: never hand-edit it — change the Markdown or the manifest and rebuild.
+
+- Sections mirror the database: `editions/`, `signed/`, `essays/`, `contributions/`,
+  `interviews/`, `press/`, `about/` (Tier B) and `reference/` (the master reference, one page per
+  chapter), plus `sources.html`, `verification.html` and `colophon.html`.
+- Every edition, interview and contribution gets its own page carrying its catalogue ID, its
+  reference section, its primary-source citations and — where the repo holds it — the full text.
+- Cover images are republished as downscaled derivatives under `docs/assets/img/`; each plate links
+  to the untouched original under `assets/images/`. Captures, PDFs and transcripts are *not* copied:
+  they are cited by a link to the file in this repository, which keeps `docs/` small and the
+  citation pointed at the artifact of record.
+- Every `<img>` carries `data-origin`, the repository path it was derived from. If a derivative is
+  missing — `docs/assets/img/` was never built, or a file was pruned — the page falls back to that
+  original over `raw.githubusercontent.com`, so the site still shows its plates (slower, but never
+  broken). Rebuilding with `scripts/build_site.py` restores the fast local path.
+- Pages are served from the `docs/` folder on the default branch
+  (**Settings → Pages → Deploy from a branch → `main` / `/docs`**). `.nojekyll` is committed so
+  GitHub serves the files as-is.
 
 ## `assets/` — images and primary-source captures
 
@@ -147,4 +174,6 @@ cited by publication / ISBN. See the private archive's `SOURCE_MAP.md` for the f
    scripts/wayback_hunt.sh               ──► assets/sources/archive/wayback/
 
    private archive (full contributed-to books only) ──► overlay of assets/; cited by publication
+
+   all of the above ──► scripts/build_site.py ──► docs/ (the website; generated, never edited)
 ```
