@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thefloppytaco.github.io/donna-tartt-research/sitemap.xml

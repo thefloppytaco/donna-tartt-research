@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About this site &amp; how to cite it · Donna Tartt</title>
+<meta name="description" content="What the Donna Tartt research database is, what it leaves out, and how to cite it.">
+<meta property="og:title" content="About this site &amp; how to cite it · Donna Tartt">
+<meta property="og:description" content="What the Donna Tartt research database is, what it leaves out, and how to cite it.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Crect%20width='32'%20height='32'%20fill='%2314110e'/%3E%3Ctext%20x='16'%20y='23'%20font-family='Georgia,serif'%20font-size='21'%20font-weight='600'%20fill='%23d9bd6a'%20text-anchor='middle'%3ET%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body id="top">
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead">
+  <div class="masthead-in">
+    <a class="brand" href="index.html">Donna Tartt
+      <span class="brand-sub">A Collector's Reference</span></a>
+    <nav class="topnav" aria-label="Sections"><ul><li><a href="editions/index.html">Editions</a></li><li><a href="signed/index.html">Signed copies</a></li><li><a href="essays/index.html">Essays</a></li><li><a href="contributions/index.html">Contributions</a></li><li><a href="interviews/index.html">Interviews</a></li><li><a href="press/index.html">Press</a></li><li><a href="about/index.html">About Tartt</a></li><li><a href="reference/index.html">Reference</a></li></ul></nav>
+  </div>
+</header>
+<main id="main" class="wrap">
+<p class="crumbs"><a href="index.html">Home</a><span>/</span>Colophon</p><div class="page-head"><p class="eyebrow">Colophon</p><h1>About this site &amp; how to cite it</h1><p class="dek">What this database is, what it deliberately leaves out, and how to quote from it.</p></div><div class="prose">
+<h2 id="what">What this is</h2>
+<p>A sourced public reference documenting every published edition, signed copy, contribution and
+notable artifact connected to the American novelist Donna Tartt (b. 1963). It is organised in two
+tiers: <strong>Tier A</strong> is work by Tartt — the novels and their editions, her short fiction
+and essays, her introductions and contributions, the audiobooks she narrated, and her on-record
+interviews. <strong>Tier B</strong> is material <a href="about/index.html">about</a>
+her that she did not write. The distinction is kept rigidly, because conflating the two is how most
+misinformation about Tartt starts.</p>
+
+<h2 id="sources">Sources and evidence</h2>
+<p>Every page on this site is generated from files in the repository: the cover manifest
+(<code>data/cover_manifest.csv</code>), the master reference, the Tier B list, the interview
+transcripts, and the captures under <code>assets/</code>. Nothing is written for the website that
+is not already in the database. Cover images are republished here as downscaled derivatives — each
+plate links to the full-resolution original in the repository. Captures, PDFs and transcripts are
+cited by a link to the file itself.</p>
+
+<h2 id="limits">What is not here</h2>
+<p>One category is held privately: full-book scans of the works Tartt <em>contributed</em> to. Only
+her own contribution is relevant and that is excerpted into the public repository; the complete
+copyrighted books are not redistributed. They are cited by publication and ISBN instead.</p>
+<p>Claims are cross-checked against primary sources where possible. Documented corrections, and any
+entries that remain single-sourced or unsettled, are recorded in the
+<a href="verification.html">verification report</a> — read it before treating a lone
+entry as settled. Per-edition caveats and points of issue sit in the relevant chapter of the
+<a href="reference/index.html">reference</a>.</p>
+
+<h2 id="cite">How to cite</h2>
+<p>Cite the underlying artifact, not this website, wherever the artifact is named. Each item page
+carries a ready-made citation with its catalogue ID and reference section; interview pages carry
+the outlet, interviewer, date and original URL. For the database as a whole:</p>
+<div class="provenance"><p><code id="cite-database">Donna Tartt — A Collector's Reference
+(research database), 2026. https://github.com/thefloppytaco/donna-tartt-research</code></p>
+<p><button type="button" class="chip" data-copy="cite-database">Copy citation</button></p></div>
+<p>Quotations from Tartt's writing and interviews are her words as printed by the original
+publisher, reproduced for non-commercial research. Descriptive prose in the reference is the
+compiler's characterisation, not hers — and quotations from her <em>fiction</em> are her
+characters' words, not her opinions.</p>
+
+<h2 id="rights">Rights</h2>
+<p>The original research and compilation are licensed
+<a class="ext" target="_blank" rel="noopener" href="https://github.com/thefloppytaco/donna-tartt-research/blob/main/LICENSE">CC BY-NC 4.0</a>. Third-party
+source captures, cover images and quoted text remain under their owners' copyright. To request
+removal of anything, open an issue on the
+<a class="ext" target="_blank" rel="noopener" href="https://github.com/thefloppytaco/donna-tartt-research/issues">repository</a>.</p>
+
+<h2 id="build">How the site is built</h2>
+<p>A dependency-light Python generator (<code>scripts/build_site.py</code> with
+<code>scripts/sitelib/</code>) reads the database and writes static HTML into <code>docs/</code>.
+There is no framework, no CDN, no webfont and no tracking: the stylesheet and a small progressive-
+enhancement script are the only assets. Re-run <code>python3 scripts/build_site.py</code> after
+editing the database to regenerate the site.</p>
+<p>Images are served as downscaled derivatives. If one is missing, the page falls back to the
+full-resolution original in the repository, so a plate is never simply broken — it just loads
+more slowly until the derivatives are rebuilt.</p>
+</div>
+</main>
+<footer class="site">
+  <div class="wrap">
+    <div class="cols">
+      <div><h3>The catalogue</h3><ul><li><a href="editions/index.html">Editions</a></li><li><a href="signed/index.html">Signed &amp; limited copies</a></li><li><a href="press/index.html">Press &amp; ephemera</a></li><li><a href="about/index.html">Items about Tartt (Tier B)</a></li></ul></div>
+      <div><h3>In her own words</h3><ul><li><a href="interviews/index.html">Interview transcripts</a></li><li><a href="interviews/source-index.html">Interview source index</a></li><li><a href="essays/index.html">Essays &amp; short fiction</a></li><li><a href="contributions/index.html">Introductions &amp; contributions</a></li></ul></div>
+      <div><h3>Apparatus</h3><ul><li><a href="reference/index.html">The master reference</a></li><li><a href="sources.html">Primary-source captures</a></li><li><a href="verification.html">Verification report</a></li><li><a href="colophon.html">About this site &amp; how to cite</a></li></ul></div>
+      <div><h3>Repository</h3><ul>
+          <li><a class="ext" target="_blank" rel="noopener" href="https://github.com/thefloppytaco/donna-tartt-research">GitHub repository</a></li>
+          <li><a class="ext" target="_blank" rel="noopener" href="https://github.com/thefloppytaco/donna-tartt-research/blob/main/AGENTS.md">AGENTS.md (ask an AI)</a></li>
+          <li><a class="ext" target="_blank" rel="noopener" href="https://github.com/thefloppytaco/donna-tartt-research/blob/main/LICENSE">Licence</a></li>
+      </ul></div>
+    </div>
+    <p class="colophon">Generated from the
+      <a class="ext" target="_blank" rel="noopener" href="https://github.com/thefloppytaco/donna-tartt-research">donna-tartt-research</a>
+      database — the cover manifest, the master reference, the Tier B list, the interview
+      transcripts and the primary-source captures. Original research and compilation are
+      licensed CC BY-NC 4.0; quoted material and source captures remain the copyright of their
+      owners, reproduced here for non-commercial research. Claims are cross-checked against
+      primary sources where possible; corrections and open questions are recorded in the
+      <a href="verification.html">verification report</a>.</p>
+  </div>
+</footer>
+<script src="assets/site.js" defer></script>
+</body>
+</html>
