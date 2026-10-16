@@ -51,6 +51,11 @@ publication, not the full book.
 > The text corpus above is the whole story for answering questions — everything authoritative is in
 > the Markdown files and the manifest.
 
+> **Skip `docs/`.** It is the generated website — the same content as HTML. Searching it only
+> returns duplicate, tag-littered copies of the Markdown above. Exclude it from greps
+> (`grep -rin "dickens" --exclude-dir=docs .`) and cite the Markdown source, never a file in
+> `docs/`.
+
 ---
 
 ## How to answer a question (recipe)
